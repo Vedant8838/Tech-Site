@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datapluse</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="images/logo.png"></a>
+            
+            <div class="nav-links" id="nav-links">
+                <span id="hide-icon">
+                    <i class="fa fa-times"></i>
+                </span>
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">COURSE</a></li>
+                    <li><a href="#">BLOG</a></li>
+                    <li><a href="CONTACT.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <span id="show-icon">
+                <i class="fa fa-bars"></i>
+            </span>
+        </nav>
+        <div class="text-box">
+            <h1>Our Biggest Softwares</h1>
+                <p>This is the website who make your career &
+                    <br>give Perfect Example of how to live life</p>
+                <a href="" class="hero-btn">Visit Us to know More</a>
+        </div>
+    </section>
+
+    <!------ Course ------>
+
+    <section class="course">
+    <h1>Course We Offer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+    <div class="row">
+        <div class="course-col">
+            <h3>Intermediate</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
+                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
+                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
+        </div>
+        <div class="course-col">
+            <h3>Degree</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
+                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
+                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
+        </div>
+        <div class="course-col">
+            <h3>Post Graduation</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
+                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
+                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
+        </div>
+    </div>
+</section>
+
+<!-- campus -->
+ 
+<section class="campus">
+    <h1>Our Biggest Softwares</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+    <div class="row">
+        <div class="campus-col">
+            <img src="images/london.png">
+            <div class="layer">
+                <h3>LONDON</h3>
+            </div>
+        </div>
+        <div lass="campus-col">
+            <img src="images/newyork.png">
+            <div class="layer">
+                <h3>NEW YORK</h3>
+            </div>
+        <div lass="campus-col">
+            <img src="images/washington.png">
+            <div class="layer">
+                <h3>WASHINGTON</h3>
+            </div>
+    </div>
+</section>
+
+    <!-------JavaScirpt for Toggle Menu------->
+    <script>
+
+        var showIcon = document.getElementById("show-icon");
+        var hideIcon = document.getElementById("hide-icon");
+        var navLinks = document.getElementById("nav-links");
+
+        showIcon.addEventListener("click", function () {
+            navLinks.style.right = "0";
+        });
+
+        hideIcon.addEventListener("click", function () {
+            navLinks.style.right = "-150px";
+        });
+
+    </script>
+
+</body>
+
+</html>
