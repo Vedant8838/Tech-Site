@@ -131,3 +131,11 @@ nav.fa{
         padding: 30px;
     }
 }
+/*-----course -----*/
+
+.course{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
