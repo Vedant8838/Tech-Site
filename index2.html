@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechWorld - Innovating the Future</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <header class="header">
+        <div class="logo">TechWorld</div>
+        <nav class="navbar">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <h1>Welcome to the Future of Technology</h1>
+        <p>Innovating the world, one breakthrough at a time.</p>
+        <a href="#contact" class="cta-button">Get In Touch</a>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>TechWorld is a leader in technological innovation, creating solutions that transform industries.</p>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <h3>Consulting</h3>
+                <p>We provide expert consulting to help you achieve your goals through innovative tech solutions.</p>
+            </div>
+            <div class="service-item">
+                <h3>Development</h3>
+                <p>Our development team creates cutting-edge applications to elevate your business.</p>
+            </div>
+            <div class="service-item">
+                <h3>Support</h3>
+                <p>24/7 support to ensure your systems are always running smoothly.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form id="contactForm">
+                <input type="text" id="name" placeholder="Your Name" required>
+                <input type="email" id="email" placeholder="Your Email" required>
+                <textarea id="message" placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+            <div id="formResponse" class="form-response"></div>
+        </div>
+    </section>
+
+    <!-- Chatbot -->
+    <div class="chatbot-container">
+        <div class="chatbot-header">
+            <span>Chat with Us</span>
+            <button class="close-chatbot" onclick="toggleChatbot()">×</button>
+        </div>
+        <div class="chatbot-messages" id="chatbotMessages">
+            <div class="bot-message">
+                <p>Hi! How can I assist you today?</p>
+            </div>
+        </div>
+        <div class="chatbot-input">
+            <input type="text" id="chatInput" placeholder="Type your message..." />
+            <button onclick="sendChat()">Send</button>
+        </div>
+    </div>
+
+    <button class="open-chatbot" onclick="toggleChatbot()">Chat with Us</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
