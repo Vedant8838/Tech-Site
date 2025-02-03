@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Footer Example</title>
+    <style>
+        /* Body Styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Main Content Styling */
+        .content {
+            flex: 1; /* Ensures footer is at the bottom */
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Footer Styling */
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            font-size: 14px;
+            position: relative;
+        }
+
+        /* Footer Links */
+        footer a {
+            color: #f8b400; /* Golden color */
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Social Icons */
+        .social-icons a {
+            margin: 0 15px;
+            font-size: 20px;
+            color: #f8b400;
+        }
+
+        .social-icons a:hover {
+            color: #fff;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            footer {
+                font-size: 12px;
+                padding: 15px 0;
+            }
+
+            .social-icons {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="content">
+        <h1>Welcome to Our Website</h1>
+        <p>Discover amazing content and features!</p>
+    </div>
+
+    <footer>
+        <div class="social-icons">
+            <a href="https://www.facebook.com" target="_blank">🌐 Facebook</a>
+            <a href="https://www.twitter.com" target="_blank">🐦 Twitter</a>
+            <a href="https://www.instagram.com" target="_blank">📷 Instagram</a>
+        </div>
+        <p>&copy; 2025 Your Website | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
+  
