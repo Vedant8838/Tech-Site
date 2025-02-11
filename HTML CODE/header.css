@@ -1,0 +1,76 @@
+/* Reset body margins */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #1a1a1a;
+    padding: 15px 30px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for better separation */
+  }
+  
+  /* Logo Style */
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #00bcd4; /* Hover effect color */
+  }
+  
+  /* Call to Action Button Styles */
+  .cta-button {
+    background-color: #00bcd4;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .cta-button:hover {
+    background-color: #0097a7;
+  }
+  
+  /* Content Styles */
+  .content {
+    padding: 80px 20px 20px; /* Padding to ensure content isn't hidden behind the sticky header */
+    text-align: center;
+  }
+  
+  .content h2 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  .content p {
+    font-size: 18px;
+    color: #666;
+  }
+  
