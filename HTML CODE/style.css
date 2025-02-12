@@ -41,3 +41,18 @@
             padding: 20px;
             background: rgba(0, 0, 0, 0.3);
         }
+        .service-container
+
+        {
+            position: relative;
+            min-height: 100vh;
+            padding: 50px 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background: url(files);
+
+        
+
+        }
