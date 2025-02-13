@@ -1,7 +1,8 @@
 .footer-dark {
-    padding:50px 0;
+    padding:35px;
     color:#f0f9ff;
     background-color:#282d32;
+    bottom: 0;
   }
   
   .footer-dark h3 {
@@ -16,7 +17,7 @@
     list-style:none;
     line-height:1.6;
     font-size:14px;
-    margin-bottom:0;
+    margin-bottom: 0;
   }
   
   .footer-dark ul a {
