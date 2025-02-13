@@ -1,117 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Datapluse</title>
+    <title>Landing Page</title>
+    <link rel="icon" type="image/x-icon" href="3.png">
     <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-
 <body>
-    <section class="header">
-        <nav>
-            <a href="index.html"><img src="images/logo.png"></a>
-            
-            <div class="nav-links" id="nav-links">
-                <span id="hide-icon">
-                    <i class="fa fa-times"></i>
-                </span>
-                <ul>
-                    <li><a href="#">HOME</a></li>
-                    <li><a href="About.html">ABOUT</a></li>
-                    <li><a href="#">COURSE</a></li>
-                    <li><a href="#">BLOG</a></li>
-                    <li><a href="contact us 2.html">CONTACT</a></li>
-                </ul>
+    <header>
+        <h1>Welcome to Our Website</h1>
+        <p>Your success starts here</p>
+        <a href="#services" class="btn">Learn More</a>
+    </header>
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="service-container">
+            <div class="service">
+                <h3>Web Development</h3>
+                <p>We build modern and responsive websites.</p>
             </div>
-            <span id="show-icon">
-                <i class="fa fa-bars"></i>
-            </span>
-        </nav>
-        <div class="text-box">
-            <h1>Our Biggest Softwares</h1>
-                <p>This is the website who make your career &
-                    <br>give Perfect Example of how to live life</p>
-                <a href="" class="hero-btn">Visit Us to know More</a>
+            <div class="service">
+                <h3>SEO Optimization</h3>
+                <p>Improve your website ranking with our SEO services.</p>
+            </div>
+            <div class="service">
+                <h3>Marketing</h3>
+                <p>Boost your business with our marketing strategies.</p>
+            </div>
         </div>
     </section>
-
-    <!------ Course ------>
-
-    <section class="course">
-    <h1>Course We Offer</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-
-    <div class="row">
-        <div class="course-col">
-            <h3>Intermediate</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
-                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
-                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
-        </div>
-        <div class="course-col">
-            <h3>Degree</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
-                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
-                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
-        </div>
-        <div class="course-col">
-            <h3>Post Graduation</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum id iste, natus reiciendis at
-                <br>dignissimos tempore? Minus expedita, eos, fuga magnam<br>
-                tempore quaerat blanditiis reiciendis ab ad fugit dolorem optio.</p>
-        </div>
-    </div>
-</section>
-
-<!-- campus -->
- 
-<section class="campus">
-    <h1>Our Biggest Softwares</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-
-    <div class="row">
-        <div class="campus-col">
-            <img src="images/london.png">
-            <div class="layer">
-                <h3>LONDON</h3>
-            </div>
-        </div>
-        <div lass="campus-col">
-            <img src="images/newyork.png">
-            <div class="layer">
-                <h3>NEW YORK</h3>
-            </div>
-        <div lass="campus-col">
-            <img src="images/washington.png">
-            <div class="layer">
-                <h3>WASHINGTON</h3>
-            </div>
-    </div>
-</section>
-
-    <!-------JavaScirpt for Toggle Menu------->
-    <script>
-
-        var showIcon = document.getElementById("show-icon");
-        var hideIcon = document.getElementById("hide-icon");
-        var navLinks = document.getElementById("nav-links");
-
-        showIcon.addEventListener("click", function () {
-            navLinks.style.right = "0";
-        });
-
-        hideIcon.addEventListener("click", function () {
-            navLinks.style.right = "-150px";
-        });
-
-    </script>
-
+    <footer>
+        <p>&copy; 2024 DataPluse. All rights reserved.</p>
+    </footer>
 </body>
-
 </html>
