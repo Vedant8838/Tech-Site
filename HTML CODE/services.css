@@ -1,12 +1,16 @@
+
 /* General Styles */
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
     margin: 20px;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #fff;
     color: #222;
+    
 }
+
+
 
 /* Header Styles */
 h1 {
@@ -87,12 +91,9 @@ section:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background 0.3s ease;
+    transition: 0.3s ease;
     text-decoration: none;
     text-align: center;
-}
-
-
 }
 
 /* Footer */
