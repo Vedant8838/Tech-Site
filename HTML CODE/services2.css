@@ -8,18 +8,6 @@ body {
     color: #333;
     line-height: 1.6;
     /* style.css */
-body {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    background-image: url('marvin-meyer-SYTO3xs06fU-unsplash.jpg'); /* Path to uploaded image */
-    background-size: cover; /* Ensures image covers entire page */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents repetition */
-    background-attachment: fixed; /* Keeps background static while scrolling */
-    color: white; /* Makes text readable */
-    font-family: Arial, sans-serif;
-}
 
 .content {
     text-align: center;
@@ -29,7 +17,6 @@ body {
     display: inline-block;
     margin: 100px auto;
 }
-
 }
 
 /* Main Container */
@@ -87,15 +74,6 @@ ul li {
     position: relative;
     padding-left: 20px;
 }
-
-ul li::before {
-    content: '\2022';
-    color: #007bff;
-    font-weight: bold;
-    position: absolute;
-    left: 0;
-}
-
 /* Buttons */
 .button {
     display: inline-block;
