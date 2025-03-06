@@ -96,12 +96,6 @@
       </div><a href="Page-1.html" data-page-id="20059737" class=c data-image-width="3137" data-image-height="1845" title="Page 1">
         <img src="images/3.png" class="u-logo-image u-logo-image-1">
       </a></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>© 2025 InfoServe Solution. All Rights Reserved</span>
-        </a>
-      </p>
-    </section>
-  
+
   
 </body></html>
