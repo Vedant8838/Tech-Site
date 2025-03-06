@@ -136,10 +136,4 @@
 
     </body></html>
 
-<<<<<<< HEAD:MAIN PAGE/security-1.php
-=======
-
-
-
->>>>>>> 79f171267189f64ea57b9e9648b90e758087f0ce:MAIN PAGE/security.php
 </body></html>
