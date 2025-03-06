@@ -1,20 +1,49 @@
 <!DOCTYPE html>
+
 <html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="​Case Studies, ​Case Studies">
-    <meta name="description" content="">
-    <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage2.css" media="screen">
-<link rel="stylesheet" href="index.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
-    <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
-    
-    
-    
-    
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="nicepage2.css" media="screen">
+<link rel="stylesheet" href="index2.css" media="screen">
+  <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
+  <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
+  
+  
+  
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+  <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "logo": "images/3.png",
+  "sameAs": []
+}</script>
+  <meta name="theme-color" content="#478ac9">
+  <meta property="og:title" content="Home">
+  <meta property="og:type" content="website">
+<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+<body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+  <?php include('header.php'); ?>
+  <html style="font-size: 16px;" lang="en"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta name="keywords" content="​Case Studies, ​Case Studies">
+        <meta name="description" content="">
+        <title>Page 1</title>
+        <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="index.css" media="screen">
+        <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+        <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+        <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
+        
+        
+        
+        
+        
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
     <script type="application/ld+json">{
@@ -84,29 +113,5 @@
       
       
     </section>
-    <section class="u-align-left u-clearfix u-section-3" id="block-3">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Access Control System & Visitor Management </h4>
-        <p class="u-text u-text-2"> Access control is provides physical and particular restriction to organization premises. Access control frameworks help achieve physical access control objectives through electronic methods. Access control credentials include a number or a PIN, cards and badges, bio metric features, and now even devices such as a smartphone through IoT.<br>
-            <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
-            <li class="u-text u-text-2">Data Pluse Solutions offering, Visitor Access Management which is intended to address these concerns in an professional and orderly strategy without trading off security, productivity or hospitality. In our Solution Access Control and Time-Attendance suite are runs freely on client’s shrewd gadgets. InfoServe offers alternatives to make either an e-pass with access rights or a paper pass for a visitor. Security person can create customized visitor pass with visitor name, photograph, organization name, contact details and escort name. Visitor Management additionally keep up records of materials that the guest is conveying alongside his ID-Proof for security reason. Also, it permits enlisting visitor’s unique finger impression or RFID Card to give the Visitor access to selected area, where Visitor is scheduled to go. This keeps security of profitable resources from snooping.
-            
-          </li>
-                <br>.
-        </p>
-      </div>
-    </section>
-    
-    
-    
-    
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>This site was created with the </span>
-        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
-          <span>Nicepage</span>
-        </a>
-      </p>
-    </section>
-  
+    <?php include('fotter.php'); ?>
 </body></html>
