@@ -22,12 +22,14 @@
 		"@type": "Organization",
 		"name": ""
 }</script>
+
     <meta name="theme-color" content="#3a65ed">
     <meta property="og:title" content="Page 1">
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
-    <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
+    <?php include('header.php'); ?>
+  <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
           <video class="embed-responsive-item" data-autoplay="1" loop="" muted="1" autoplay="autoplay" playsinline="">
@@ -104,6 +106,8 @@
         </p>
       </div>
     </section>
+    <?php include('fotter.php'); ?>
+
     
     
     
