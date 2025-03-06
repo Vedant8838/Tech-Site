@@ -1,18 +1,46 @@
 <!DOCTYPE html>
+
 <html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="​Case Studies, ​Case Studies">
-    <meta name="description" content="">
-    <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage2.css" media="screen">
-<link rel="stylesheet" href="index.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
-    <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
-    
-    
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="nicepage2.css" media="screen">
+<link rel="stylesheet" href="index2.css" media="screen">
+  <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
+  <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
+  
+  
+  
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+  <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "logo": "images/3.png",
+  "sameAs": []
+}</script>
+  <meta name="theme-color" content="#478ac9">
+  <meta property="og:title" content="Home">
+  <meta property="og:type" content="website">
+<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+<body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+  <?php include('header.php'); ?>
+  <html style="font-size: 16px;" lang="en"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta name="keywords" content="​Case Studies, ​Case Studies">
+        <meta name="description" content="">
+        <title>Page 1</title>
+        <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="index.css" media="screen">
+        <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+        <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+        <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
+        
+        
     
     
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
@@ -27,6 +55,7 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+    <?php include('header.php'); ?> 
     <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
@@ -43,7 +72,7 @@
             <div class="u-layout-row">
               <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Wireless Mobility</h1>
+                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Structured Cabling System</h1>
                   <p class="u-align-left u-text u-text-2"> Nibh venenatis cras sed felis eget velit aliquet sagittis id. Tellus pellentesque eu tincidunt tortor aliquam nulla.</p>
                   <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                 </div>
@@ -72,7 +101,6 @@
               <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
                   <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,&nbsp; &nbsp; &nbsp;printer, and workstation moves<br>.Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>.Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business
-                  
                   </p>
                   <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                 </div>
@@ -86,19 +114,20 @@
     </section>
     <section class="u-align-left u-clearfix u-section-3" id="block-3">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Wireless Mobility</h4>
-        <p class="u-text u-text-2"> Today, high speed Internet is very affordable, most devices don’t even feature Ethernet ports and the way people work has evolved in turn. Businesses can no longer get away with providing subpar WiFi, as most operations rely on high speed wireless service. Even the way WiFi is delivered has evolved. Today, most offices require a managed WiFi solution. Any business that sees WiFi as an essential element of its day-to-day operations should explore WiFi solution. Solutions are affordable and can be customized for any business’ unique requirements.<br>
-        <p class="u-text u-text-2">Now a day’s mobile users require the same accessibility, security, quality-of-service (QoS), and high availability currently enjoyed by wired users. Legacy 802.11a/b/g networks can no longer suffice this need. 802.11n can manage your Mission-Critical Wireless Needs. It modernizes your network with up to six times more performance than legacy 802.11a/b/g networks, and add the capacity and reliability required for multimedia and business-critical applications. It prepares your network to support the influx of new mobile devices. Implementing 802.11n can allow organizations to lower TCO by delivering a reliable wireless network that supports a broad range of mobility applications without compromising total network performance.<br>
-            <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
-            <p class="u-text u-text-2">Standard practices ensure clients get carrier quality work and deliverables for network architecture design, Wi-Fi RF planning, installation, commissioning, test and integration of the highest quality. For InfoServe, Your business’ needs are the most important aspect in delivering the wireless solution. InfoServe helps SMBs, Enterprise business and Governments with range of advance indoor, outdoor and cloud-managed devices to deliver desired connectivity services securely.
-            <p class="u-text u-text-2">We Offer Deployment of an outdoor wireless network which requires an even greater specialized skill set due to the unique nature of the outdoor environment. We offer solution for Point to Point, Point to Multipoint scenarios where multiple challenges could be factor.
-            <p class="u-text u-text-2">We offer you controller based WLAN solution for highly secure, enterprise – scale wireless networks in Gujarat India.
-            <p class="u-text u-text-2">Data pluse solutions has proven methodology to design the wireless solution. We follow industry standard best practices for designing accurate Wireless solution by following steps like Surveys, Planning, Design, Implementation and Post installation Survey.
-            <p class="u-text u-text-2">We offer you a complete BYOD solution that can easily tailor to meet your needs and supports your network with Policy-enforced, highly secure access, Exceptional network experiences, and Simplified operations
-            </p>
+        <h4 class="u-text u-text-palette-1-base u-text-1"> Structured Cabling System</h4>
+        <p class="u-text u-text-2"> Structured cabling system is a kind of open network structure, which can be used by various systems such as data, telephony, access control, building automation and so on. It provides great flexibility and economical operation. Generally, structured cabling system can be divided into six parts: work area, horizontal cabling, backbone cabling, equipment room, and telecommunication closet (room) and entrance facilities.<br> 
+        <p class="u-text u-text-2">Having Internet access in a commercial building is no longer an option. It is a must. That means every commercial building needs some sort of structured cabling system and many of them require a full wiring closet or server room including racks, panels, patch cords, lightning protectors, routers, switches, and media converters, all supported by a staff of IT professionals. Even if you are doing most of your file sharing and other network activities in the cloud, you can’t get by without the basic cable linking your office to an ISP. As you’ll see, InfoServe is your “one-stop" source for everything you’ll need to maintain your structured cabling and LAN.
+        <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+        <p class="u-text u-text-2"> Our structured cabling services can plan, design, install, maintain, troubleshoot, and upgrade any size network. From 1 to 1,000 drops, our in-house technicians are ready to go to work for you. We are committed to provide total connectivity solutions through Structured Cabling with a complete line of Data & Voice Cabling solutions. We propose a structured cabling solution that gives your business a unified infrastructure to support all your voice and data communications needs today as well as your changing needs of tomorrow.
+        <p class="u-text u-text-2"> Fiber-optic single mode or multimode networks provide solutions where other networks fall short. Fiber optics can travel greater distances, perform at greater speeds, and withstand interference caused by heavy machinery or electrical lines. Our technicians are skilled at installing and working with fiber lines. InfoServe can help integrate a fiber-optic network with a local copper network, build a fiber network from scratch, or build a custom solution based on your business needs.
+        <p class="u-text u-text-2"> Dramatic growth in data center, CCTV data, Video Calling, File sharing over cloud and on premise throughput has led to the increasing usage and demand for higher-performance servers, storage and interconnects. Fiber optic backbone can meet the expansion of higher bandwidth supporting upto 40 Gig.
+        <p class="u-text u-text-2">To satisfy diverse customer requirements, we deliver complete copper cabling solution, along with coordinated terminations at both network rack & workstation side. Finally, all the links to be tested and commissioned for best and accurate connectivity.
+        <p class="u-text u-text-2">Our solution has been evolved to embrace new developments in copper technologies and structured cabling. Horizontal cabling for End User, IP Telephone and IP CCTV connectivity within an office or building. Our pathway development team installs both interior and exterior conduits and raceways utilizing the latest in Trenchless Technology for building to building and campus environmentss
+          <br>.
+        </p>
       </div>
     </section>
-    
+    <?php include('fotter.php'); ?>
     
     
     

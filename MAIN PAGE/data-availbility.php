@@ -6,10 +6,10 @@
   <meta name="keywords" content="">
   <meta name="description" content="">
   <title>Home</title>
-  <link rel="stylesheet" href="nicepage.css" media="screen">
+  <link rel="stylesheet" href="nicepage2.css" media="screen">
 <link rel="stylesheet" href="index2.css" media="screen">
   <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-  <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
   <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
   
   
@@ -27,8 +27,8 @@
   <meta property="og:type" content="website">
 <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
 <body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
-  
-<html style="font-size: 16px;" lang="en"><head>
+  <?php include('header.php'); ?>
+  <html style="font-size: 16px;" lang="en"><head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="utf-8">
         <meta name="keywords" content="​Case Studies, ​Case Studies">
@@ -39,7 +39,6 @@
         <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
         <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
         <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
-        
         
         
         
@@ -127,7 +126,7 @@
           </div>
         </section>
       
-    </body></html>
+    
     <?php include('fotter.php'); ?>
 
 <section class="u-backlink u-clearfix u-grey-80">
