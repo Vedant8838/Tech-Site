@@ -72,8 +72,8 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">security</h1>
-                      <p class="u-align-left u-text u-text-2"> Security for information technology (IT) refers to the methods, tools and personnel used to defend an organization's digital assets. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Storage Systems</h1>
+                      <p class="u-align-left u-text u-text-2">A server is a computer or system that provides resources, services, or programs to other computers, called clients. Servers can be physical computers or computer programs. </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
@@ -113,27 +113,27 @@
           
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
-            <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Security</h4>
-        <p class="u-text u-text-2"> Network Security and Computer Data Security for companies<br>
-            <p class="u-text u-text-2">Do you wish you could find an affordable solution to the ever-present worry over hackers, viruses, and malware that could attack at any time? In addition to the common possibility of accidents and internal threats from lost laptops and flash drives?
-            <p class="u-text u-text-2">With Computer Data Security services that you can afford, your business is totally safeguarded, - allowing for your peace of mind. Our total solutions for Wireless Network Security and Virus Removal mean defending your business from online threats in Irvine, Costa Mesa, Newport Beach and Orange County is more affordable than you ever thought possible.
-            <p class="u-text u-text-2">InfoServe comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
-            <p class="u-text u-text-2">We also have a comprehensive range of security solutions with coverage of all perimeters of your network, from gateway to endpoint security.
-            <p class="u-text u-text-2">The strategic security framework from InfoServe Solution includes:
-                <li class="u-text u-text-2">hreat Monitoring - security from predators, hackers, and other online threats
-                <li class="u-text u-text-2">Risk Management - we find the possible faults in your network and show you how to repair them
-                <li class="u-text u-text-2">Anti-Virus Strategies - protect your company from viruses like spyware and malware
-                <li class="u-text u-text-2"> Security Tools for Users - including virtual private networks, encryption options, and password protection
-                    
-                
-                        </li>
-                        </p>
+          <div class="u-clearfix u-sheet u-sheet-1">
+            <h4 class="u-text u-text-palette-1-base u-text-1">Storage Systems</h4>
+            <p class="u-text u-text-2">Data Pluse Sloutions can design, deliver and support you with storage solutions that will address your needs around information compliance, availability, retention and security and deliver maximum value for your investment<br>
+            <p class="u-text u-text-2">We offer a complete portfolio of storage systems like Storage Area Network (SAN), Network Area storage (NAS), Unified Storage System, Tape and Cloud based storage which gives you best-in-class availability and performance to meet the needs of your business applications. <br>
+            <p class="u-text u-text-2">Data Pluse Sloutions, as system servers’ providers, understands growing business needs of our customers and designs a strategic, cost-effective server solution that supports changing demands. In fact, it also provides well-planned server strategies that can help businesses achieve optimum performance, availability, efficiency and business value from server infrastructure investments.<br>
+            
 
-      </div>
-    </section>
-    <?php include('fotter.php'); ?>
-
+                <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+            <li class="u-text u-text-2">Data Pluse Sloutions, as a Storage System Provider, provides Storage solutions through highly resilient, hardware data storage solutions which include the required speed, performance, flexibility, scalability & security for today’s entry to enterprise storage solutions. Storage solutions will help organizations stock, protect, optimize & leverage their existing & ever-growing information.            </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutionsoffers a range of best-in-class proven storage solutions that meet a variety of your most critical business data management needs.  </li>
+            <li class="u-text u-text-2"> professionals can assist you in determining what solutions will be in sync with your objectives. We provide networked storage topologies which can bring increased levels of performance, flexibility, simplification, resource utilization, data availability, and disaster recovery capabilities to your organization. </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutions In addition to these we help you strategize for data availability, speed of access and secure sharing of data inside and outside your enterprise. Our solution allows you to meet growing demands for capacity, storage performance and align your storage management with your business strategies. </li>
+            >
+          
+            </p>
+          </div>
+        </section>
+        <?php include('fotter.php'); ?>
+      
     </body></html>
+
+
 
 </body></html>

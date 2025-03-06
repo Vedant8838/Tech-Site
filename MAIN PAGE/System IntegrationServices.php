@@ -91,21 +91,11 @@
         <p class="u-text u-text-2">Data Pluse Solution offerings are:
         <p class="u-text u-text-2">Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, InfoServe Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.
         <p class="u-text u-text-2">Integration consultancy is crucial as it helps in selecting the right products and technologies before investing. It plays important role in infrastructure building. You will find that our experts have a range of options to meet your requirements and budget.
-          <br>.
+          <br>
         </p>
       </div>
     </section>
     
     <?php include('fotter.php'); ?>
-    
-    
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>This site was created with the </span>
-        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
-          <span>Nicepage</span>
-        </a>
-      </p>
-    </section>
-  
+
 </body></html>

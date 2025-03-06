@@ -44,7 +44,8 @@
         
         
         
-        <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+        
+<link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
         <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
         <script type="application/ld+json">{
             "@context": "http://schema.org",
@@ -72,8 +73,8 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">security</h1>
-                      <p class="u-align-left u-text u-text-2"> Security for information technology (IT) refers to the methods, tools and personnel used to defend an organization's digital assets. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Surveillance & Video Analytics</h1>
+                      <p class="u-align-left u-text u-text-2"> Video analytics is a technology that uses algorithms to analyze video footage to detect events and generate insights. Surveillance systems use video analytics to monitor and respond to suspicious activity.  </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
@@ -114,26 +115,20 @@
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
             <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Security</h4>
-        <p class="u-text u-text-2"> Network Security and Computer Data Security for companies<br>
-            <p class="u-text u-text-2">Do you wish you could find an affordable solution to the ever-present worry over hackers, viruses, and malware that could attack at any time? In addition to the common possibility of accidents and internal threats from lost laptops and flash drives?
-            <p class="u-text u-text-2">With Computer Data Security services that you can afford, your business is totally safeguarded, - allowing for your peace of mind. Our total solutions for Wireless Network Security and Virus Removal mean defending your business from online threats in Irvine, Costa Mesa, Newport Beach and Orange County is more affordable than you ever thought possible.
-            <p class="u-text u-text-2">InfoServe comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
-            <p class="u-text u-text-2">We also have a comprehensive range of security solutions with coverage of all perimeters of your network, from gateway to endpoint security.
-            <p class="u-text u-text-2">The strategic security framework from InfoServe Solution includes:
-                <li class="u-text u-text-2">hreat Monitoring - security from predators, hackers, and other online threats
-                <li class="u-text u-text-2">Risk Management - we find the possible faults in your network and show you how to repair them
-                <li class="u-text u-text-2">Anti-Virus Strategies - protect your company from viruses like spyware and malware
-                <li class="u-text u-text-2"> Security Tools for Users - including virtual private networks, encryption options, and password protection
-                    
-                
-                        </li>
-                        </p>
-
-      </div>
-    </section>
-    <?php include('fotter.php'); ?>
-
+              <h4 class="u-text u-text-palette-1-base u-text-1">Surveillance & Video Analytics </h4>
+              <p class="u-text u-text-2"> In present time, surveillance is all pervasive, cutting across various industries and Commercial business. The associated technology is converting from standalone and analog video to networked (IP) and digital video. With help of Surveillance system in commercial premises or residential property, we are able to identify each clients’ necessities. Some requirements include here like Overseeing your employees and cash registers, All time your premises will keep protected, movement Screening in a particularly high-risk area, Preventing Shoplifting, Monitoring vandalism, Keeping an eye on unwanted visitors scrolling around your home.<br>
+                  <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+                  <li class="u-text u-text-2">The intelligent video surveillance solution from Microlink offers comprehensive IP video surveillance and Video Analytics software, which are capable of addressing small, medium and large installations. Video analytics provides the data that tracks the movement of people and vehicles to help end users better understand their operations and potential revenue opportunities.
+                  <li class="u-text u-text-2">Data Pluse Solutions is also provides solution for real-time counting data of people and vehicles entering or exiting a camera scene. Two innovative analytics algorithms include the ability to track people entering a target zone and how long they dwell in the area. This data can provide businesses with powerful insight into the design, use, and efficiency of operations.
+                  <li class="u-text u-text-2">We provide your various security related support, like surveillance of your corporate, factory, ware house, branch office, Offices or any desire place from anywhere. Security solutions for prevent theft or damage your valuables. Solution with latest technology to reduce your efforts and enhance your efficiency.
+                </li>
+                      <br>.
+              </p>
+            </div>
+          </section>
+          <?php include('fotter.php'); ?>
     </body></html>
+
+
 
 </body></html>

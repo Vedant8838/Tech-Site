@@ -72,8 +72,8 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">security</h1>
-                      <p class="u-align-left u-text u-text-2"> Security for information technology (IT) refers to the methods, tools and personnel used to defend an organization's digital assets. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Servers</h1>
+                      <p class="u-align-left u-text u-text-2">A server is a computer or system that provides resources, services, or programs to other computers, called clients. Servers can be physical computers or computer programs. </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
@@ -113,27 +113,24 @@
           
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
-            <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Security</h4>
-        <p class="u-text u-text-2"> Network Security and Computer Data Security for companies<br>
-            <p class="u-text u-text-2">Do you wish you could find an affordable solution to the ever-present worry over hackers, viruses, and malware that could attack at any time? In addition to the common possibility of accidents and internal threats from lost laptops and flash drives?
-            <p class="u-text u-text-2">With Computer Data Security services that you can afford, your business is totally safeguarded, - allowing for your peace of mind. Our total solutions for Wireless Network Security and Virus Removal mean defending your business from online threats in Irvine, Costa Mesa, Newport Beach and Orange County is more affordable than you ever thought possible.
-            <p class="u-text u-text-2">InfoServe comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
-            <p class="u-text u-text-2">We also have a comprehensive range of security solutions with coverage of all perimeters of your network, from gateway to endpoint security.
-            <p class="u-text u-text-2">The strategic security framework from InfoServe Solution includes:
-                <li class="u-text u-text-2">hreat Monitoring - security from predators, hackers, and other online threats
-                <li class="u-text u-text-2">Risk Management - we find the possible faults in your network and show you how to repair them
-                <li class="u-text u-text-2">Anti-Virus Strategies - protect your company from viruses like spyware and malware
-                <li class="u-text u-text-2"> Security Tools for Users - including virtual private networks, encryption options, and password protection
-                    
-                
-                        </li>
-                        </p>
+          <div class="u-clearfix u-sheet u-sheet-1">
+            <h4 class="u-text u-text-palette-1-base u-text-1">Servers</h4>
+            <p class="u-text u-text-2"> Server, at its most basic definition, is underlying a computing platform on which application programs can run. Today’s IT requirement demands higher performance in terms of higher computing power and better reliability with optimum cost.<br>
+            <p class="u-text u-text-2">IT organizations around the world are driving higher value into their businesses by virtualizing their data centres to reduce costs and adding automation to improve service levels, efficiency and agility. Servers provide the foundation for this innovation. <br>
+            <p class="u-text u-text-2">Next-generation servers raise the bar on IT efficiency and help you embrace innovation in your IT environment. The latest generation servers can run up to 50% more virtual machines than previous generations. Now, you can easily combine servers from multiple generations into the same virtualized server pool to extend failover, load balancing, and disaster recovery capability.
+            <p class="u-text u-text-2">Data Pluse Sloutions, as system servers’ providers, understands growing business needs of our customers and designs a strategic, cost-effective server solution that supports changing demands. In fact, it also provides well-planned server strategies that can help businesses achieve optimum performance, availability, efficiency and business value from server infrastructure investments.
 
-      </div>
-    </section>
-    <?php include('fotter.php'); ?>
-
+                <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+            <li class="u-text u-text-2"> Data Pluse Sloutionsprovides top of the line server offerings to address the most mission-critical needs of our customers. </li>
+            <li class="u-text u-text-2">Data Pluse Sloutions server solutions address the challenges of an evolving IT environment by delivering leading enterprise-class features and functionality from leading OEMs. We deliver a unique array of options configured to meet the needs of your IT environment in the present and the future. InfoServe’s solution architecture helps you to determine the best course of action for optimized application & system development to align with your needs. Whether you are considering continued growth of business applications, recovery time objectives, high availability and disaster recovery or business continuance, we have solutions for all.  </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutions can help with the planning of your system requirements for your business needs and provide with solutions that are proven over time. We follow open standard benchmarks to evaluate your computing power requirements, which delivers the exact requirement for hardware. We can help you to address risk utilization and availability issues by identifying gaps and developing a transformational road map. </li>
+            <li class="u-text u-text-2">Business continuity: Business continuity is the activity performed by an organization to ensure that critical business functions will be available to customers, suppliers, regulators, and other entities that must have access to those functions. These activities include many daily jobs such as project management, system backups, change control, and help desks. Business continuity refers to those activities performed on a daily basis to maintain service, consistency, and recoverability, not something that is implemented at the time of a disaster.  </li>
+            <li class="u-text u-text-2">Data Leakage Prevention: Data Pluse Solution provides Data Leakage or Loss Prevention solutions by identifying, monitoring, and protecting the data in use, data in transit and data at your servers. We help organizations in protection by recommending products and solutions by continually inspecting the security analysis of each transaction with a centralized management architecture.  </li>
+          
+            </p>
+          </div>
+        </section>
+        <?php include('fotter.php'); ?>
     </body></html>
 
 </body></html>
