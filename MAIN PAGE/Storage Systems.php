@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html style="font-size: 16px;" lang="en"><head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="nicepage2.css" media="screen">
+<link rel="stylesheet" href="index2.css" media="screen">
+  <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
+  <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
+  
+  
+  
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+  <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "logo": "images/3.png",
+  "sameAs": []
+}</script>
+  <meta name="theme-color" content="#478ac9">
+  <meta property="og:title" content="Home">
+  <meta property="og:type" content="website">
+<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+<body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+  <?php include('header.php'); ?>
+  <html style="font-size: 16px;" lang="en"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta name="keywords" content="​Case Studies, ​Case Studies">
+        <meta name="description" content="">
+        <title>Page 1</title>
+        <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="index.css" media="screen">
+        <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+        <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+        <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
+        
+        
+        
+        
+        
+        <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+        <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
+        <script type="application/ld+json">{
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": ""
+    }</script>
+        <meta name="theme-color" content="#3a65ed">
+        <meta property="og:title" content="Page 1">
+        <meta property="og:type" content="website">
+      <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+      <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+        <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
+          <div class="u-background-video u-expanded" style="">
+            <div class="embed-responsive">
+              <video class="embed-responsive-item" data-autoplay="1" loop="" muted="1" autoplay="autoplay" playsinline="">
+                <source src="files/SmartCityDigitalCityVideo-SmartCityMetro1080ph264.mp4" type="video/mp4">
+                <p>Your browser does not support HTML5 video.</p>
+              </video>
+            </div>
+            <div class="u-video-shading" style="background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65));"></div>
+          </div>
+          <div class="u-clearfix u-sheet u-sheet-1">
+            <div class="custom-expanded data-layout-selected u-clearfix u-layout-wrap u-layout-wrap-1">
+              <div class="u-layout">
+                <div class="u-layout-row">
+                  <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                    <div class="u-container-layout u-valign-middle u-container-layout-1">
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Storage Systems</h1>
+                      <p class="u-align-left u-text u-text-2">A server is a computer or system that provides resources, services, or programs to other computers, called clients. Servers can be physical computers or computer programs. </p>
+                      <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
+                    </div>
+                  </div>
+                  <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                    <div class="u-container-layout u-container-layout-2">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="u-clearfix u-container-align-center u-image u-parallax u-shading u-section-2" id="block-1">
+          <div class="u-clearfix u-sheet u-sheet-1">
+            <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+              <div class="u-layout">
+                <div class="u-layout-row">
+                  <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+                    <div class="u-container-layout u-container-layout-1">
+                      <h2 class="u-align-left u-hover-feature u-text u-text-1">We are directly involved in the process</h2>
+                      <div class="u-align-left u-border-6 u-border-grey-dark-1 u-line u-line-horizontal u-line-1"></div>
+                    </div>
+                  </div>
+                  <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+                    <div class="u-container-layout u-container-layout-2">
+                      <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
+                      </p>
+                      <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
+        </section>
+        <section class="u-align-left u-clearfix u-section-3" id="block-3">
+          <div class="u-clearfix u-sheet u-sheet-1">
+            <h4 class="u-text u-text-palette-1-base u-text-1">Storage Systems</h4>
+            <p class="u-text u-text-2">Data Pluse Sloutions can design, deliver and support you with storage solutions that will address your needs around information compliance, availability, retention and security and deliver maximum value for your investment<br>
+            <p class="u-text u-text-2">We offer a complete portfolio of storage systems like Storage Area Network (SAN), Network Area storage (NAS), Unified Storage System, Tape and Cloud based storage which gives you best-in-class availability and performance to meet the needs of your business applications. <br>
+            <p class="u-text u-text-2">Data Pluse Sloutions, as system servers’ providers, understands growing business needs of our customers and designs a strategic, cost-effective server solution that supports changing demands. In fact, it also provides well-planned server strategies that can help businesses achieve optimum performance, availability, efficiency and business value from server infrastructure investments.<br>
+            
+
+                <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+            <li class="u-text u-text-2">Data Pluse Sloutions, as a Storage System Provider, provides Storage solutions through highly resilient, hardware data storage solutions which include the required speed, performance, flexibility, scalability & security for today’s entry to enterprise storage solutions. Storage solutions will help organizations stock, protect, optimize & leverage their existing & ever-growing information.            </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutionsoffers a range of best-in-class proven storage solutions that meet a variety of your most critical business data management needs.  </li>
+            <li class="u-text u-text-2"> professionals can assist you in determining what solutions will be in sync with your objectives. We provide networked storage topologies which can bring increased levels of performance, flexibility, simplification, resource utilization, data availability, and disaster recovery capabilities to your organization. </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutions In addition to these we help you strategize for data availability, speed of access and secure sharing of data inside and outside your enterprise. Our solution allows you to meet growing demands for capacity, storage performance and align your storage management with your business strategies. </li>
+            >
+          
+            </p>
+          </div>
+        </section>
+
+        <?php include('fotter.php'); ?>
+
+
+</body></html>
