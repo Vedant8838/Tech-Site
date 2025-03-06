@@ -27,6 +27,7 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+    <?php include('header.php'); ?>
     <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
@@ -43,7 +44,7 @@
             <div class="u-layout-row">
               <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Security</h1>
+                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">System Integration Services</h1>
                   <p class="u-align-left u-text u-text-2"> Nibh venenatis cras sed felis eget velit aliquet sagittis id. Tellus pellentesque eu tincidunt tortor aliquam nulla.</p>
                   <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                 </div>
@@ -72,7 +73,6 @@
               <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
                   <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,&nbsp; &nbsp; &nbsp;printer, and workstation moves<br>.Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>.Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business
-                  
                   </p>
                   <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                 </div>
@@ -86,26 +86,17 @@
     </section>
     <section class="u-align-left u-clearfix u-section-3" id="block-3">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Security</h4>
-        <p class="u-text u-text-2"> Network Security and Computer Data Security for companies<br>
-            <p class="u-text u-text-2">Do you wish you could find an affordable solution to the ever-present worry over hackers, viruses, and malware that could attack at any time? In addition to the common possibility of accidents and internal threats from lost laptops and flash drives?
-            <p class="u-text u-text-2">With Computer Data Security services that you can afford, your business is totally safeguarded, - allowing for your peace of mind. Our total solutions for Wireless Network Security and Virus Removal mean defending your business from online threats in Irvine, Costa Mesa, Newport Beach and Orange County is more affordable than you ever thought possible.
-            <p class="u-text u-text-2">InfoServe comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
-            <p class="u-text u-text-2">We also have a comprehensive range of security solutions with coverage of all perimeters of your network, from gateway to endpoint security.
-            <p class="u-text u-text-2">The strategic security framework from InfoServe Solution includes:
-                <li class="u-text u-text-2">hreat Monitoring - security from predators, hackers, and other online threats
-                <li class="u-text u-text-2">Risk Management - we find the possible faults in your network and show you how to repair them
-                <li class="u-text u-text-2">Anti-Virus Strategies - protect your company from viruses like spyware and malware
-                <li class="u-text u-text-2"> Security Tools for Users - including virtual private networks, encryption options, and password protection
-                    
-                
-                        </li>
-                        </p>
-
+        <h4 class="u-text u-text-palette-1-base u-text-1"> System Integration Services</h4>
+        <p class="u-text u-text-2"> Keeping current with new technology is a task in itself. organisations are undergoing enormous challenges in creating and evolving an IT framework that would help leverage IT to serve customers better. When and where to invest in technology and staffing issues, security are just a drop in the ocean of challenges. Experience is crucial to understand these challenges that an organisation is experiencing.<br> 
+        <p class="u-text u-text-2">Data Pluse Solution offerings are:
+        <p class="u-text u-text-2">Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, InfoServe Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.
+        <p class="u-text u-text-2">Integration consultancy is crucial as it helps in selecting the right products and technologies before investing. It plays important role in infrastructure building. You will find that our experts have a range of options to meet your requirements and budget.
+          <br>.
+        </p>
       </div>
     </section>
     
-    
+    <?php include('fotter.php'); ?>
     
     
     <section class="u-backlink u-clearfix u-grey-80">
