@@ -5,10 +5,10 @@
     <meta name="keywords" content="​Case Studies, ​Case Studies">
     <meta name="description" content="">
     <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="nicepage2.css" media="screen">
 <link rel="stylesheet" href="index.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
     <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
     
     
@@ -27,6 +27,7 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+    <?php include('header.php'); ?>
     <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
@@ -43,7 +44,7 @@
             <div class="u-layout-row">
               <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Cloud Services</h1>
+                  <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">System Integration Services</h1>
                   <p class="u-align-left u-text u-text-2"> Nibh venenatis cras sed felis eget velit aliquet sagittis id. Tellus pellentesque eu tincidunt tortor aliquam nulla.</p>
                   <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                 </div>
@@ -85,18 +86,17 @@
     </section>
     <section class="u-align-left u-clearfix u-section-3" id="block-3">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h4 class="u-text u-text-palette-1-base u-text-1">Cloud Services</h4>
-        <p class="u-text u-text-2"> With InfoServe Solution as your cloud service provider, using, upgrading and maintaining your IT has never been simpler. Your technology, software and applications are hosted by our team of experts, which means you can eliminate the cost of investing in new infrastructure, licensing new software and training new employees. Cloud services mean you always have the latest versions and features. As a small business you can deploy IT solutions that rival your biggest competitors at a fraction of the cost.<br>
-        <p class="u-text u-text-2">For some companies, a self-hosted Microsoft Exchange server is the best solution. For others, hosting email in the cloud works the best. Hosted (cloud) email can save on hardware costs, data backup, and IT Expenses. We’re happy to give you a free evaluation of your business network and come up with the best solution for you.<br>
-        <P class="u-text u-text-2">These powerful solutions can be designed to meet the unique requirements of your company. If you could benefit from increased market share, greater efficiency or a better bottom line, Cloud Services from Info Bit is the answer.<br>
-        
-
-      
+        <h4 class="u-text u-text-palette-1-base u-text-1"> System Integration Services</h4>
+        <p class="u-text u-text-2"> Keeping current with new technology is a task in itself. organisations are undergoing enormous challenges in creating and evolving an IT framework that would help leverage IT to serve customers better. When and where to invest in technology and staffing issues, security are just a drop in the ocean of challenges. Experience is crucial to understand these challenges that an organisation is experiencing.<br> 
+        <p class="u-text u-text-2">Data Pluse Solution offerings are:
+        <p class="u-text u-text-2">Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, InfoServe Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.
+        <p class="u-text u-text-2">Integration consultancy is crucial as it helps in selecting the right products and technologies before investing. It plays important role in infrastructure building. You will find that our experts have a range of options to meet your requirements and budget.
+          <br>.
         </p>
       </div>
     </section>
     
-    
+    <?php include('fotter.php'); ?>
     
     
     <section class="u-backlink u-clearfix u-grey-80">
