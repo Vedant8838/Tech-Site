@@ -73,7 +73,7 @@
               <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                 <div class="u-container-layout u-valign-middle u-container-layout-1">
                   <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Digital Networking</h1>
-                  <p class="u-align-left u-text u-text-2"> Nibh venenatis cras sed felis eget velit aliquet sagittis id. Tellus pellentesque eu tincidunt tortor aliquam nulla.</p>
+                  <p class="u-align-left u-text u-text-2">Digital networking is a system of interconnected devices that share data using various technologies and protocols. Digital networks can be used for communication, resource sharing, and more.  </p>
                   <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                 </div>
               </div>
