@@ -50,7 +50,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER&amp; Recovery</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-availbility.php">DATA AVAILABILITY</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Virtualization.php">VIRTUALIZATION</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="#">CLOUD COMPUTING</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="CloudServices.php">CLOUD COMPUTING</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Email Spam Protections.php">EMAIL PROTECTION</a>
 </li></ul>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">CONVERGED NETWORK</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Structured Cabling System.html">STRUCTURED CABLING SYSTEM</a>
