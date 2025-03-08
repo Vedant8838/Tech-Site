@@ -5,7 +5,7 @@
     <meta name="keywords" content="Code Central, Geek Zone, Online Insights, Your Ultimate Tech Resource Hub, Tech Updates, Digital Hub, Innovate Now, Innovative Tech Solutions Online, Code Central, Gadget Guru">
     <meta name="description" content="">
     <title>Page 3</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="aboutus.css" media="screen">
 <link rel="stylesheet" href="Page-3.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
@@ -14,7 +14,7 @@
     
     
     
-    
+    <?php include('header.php'); ?>
     
     
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
@@ -238,13 +238,6 @@
     
     
     
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>This site was created with the </span>
-        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
-          <span>Nicepage</span>
-        </a>
-      </p>
-    </section>
+   
   
 </body></html>
