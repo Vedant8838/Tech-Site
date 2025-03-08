@@ -65,7 +65,7 @@
 
 
   
-  <body data-home-page="Page-1.html" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+  <body data-home-page="index.php" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
     <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
