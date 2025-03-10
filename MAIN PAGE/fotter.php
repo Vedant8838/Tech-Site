@@ -1,101 +1,243 @@
-<!DOCTYPE html>
-<html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Home</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="index2.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
-    
-<footer class="u-clearfix u-footer u-grey-80 u-footer" id="footer"><div class="custom-expanded data-layout-selected u-clearfix u-gutter-30 u-layout-wrap u-layout-wrap-1">
-        <div class="u-gutter-0 u-layout">
-          <div class="u-layout-row">
-            <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
-              <div class="u-container-layout u-container-layout-1"><!--position-->
-                <div data-position="" class="custom-expanded u-position u-position-1"><!--block-->
-                  <div class="u-block">
-                    <div class="u-block-container u-clearfix"><!--block_header-->
-                      <h5 class="u-block-header u-text"><!--block_header_content-->Services <br>
-                        <br>
-                        <br><!--/block_header_content-->
-                      </h5><!--/block_header--><!--block_content-->
-                      <div class="u-block-content u-text"><!--block_content_content--><!--/block_content_content--></div><!--/block_content-->
-                    </div>
-                  </div><!--/block-->
-                </div><!--/position-->
-                <p class="u-heading-font u-text u-text-3">
-                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="#">IT Infrastructure Solution<br>
-                  </a>
-                </p>
-                <p class="u-heading-font u-small-text u-text u-text-variant u-text-4">
-                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" href="#">Email and Spam Protection </a>
-                </p>
-                <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" href="#">Data Backup &amp; Recovery<span style="font-size: 1.125rem;">
-                    <span style="font-weight: 700;">
-                      <span style="font-weight: 400;">
-                        <span style="font-weight: 700;"></span>
-                      </span>
-                    </span>
-                  </span>
-                </a>
-                <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4" href="#"> Cybersecurity</a>
-                <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-5" href="#"> Enterprise Solutions </a>
-              </div>
-            </div>
-            <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-              <div class="u-container-layout u-container-layout-2"><!--position-->
-                <div data-position="" class="u-position u-position-2"><!--block-->
-                  <div class="u-block">
-                    <div class="u-block-container u-clearfix"><!--block_header-->
-                      <h5 class="u-block-header u-text"><!--block_header_content-->Contact Detail <!--/block_header_content--></h5><!--/block_header--><!--block_content-->
-                      <div class="u-block-content u-text"><!--block_content_content--><!--/block_content_content--></div><!--/block_content-->
-                    </div>
-                  </div><!--/block-->
-                </div><!--/position-->
-                <a href="tel:8000120384" class="u-active-none u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-6">
-                  <span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg></span>&nbsp;+91 xxxxxxxxxxc
-                </a>
-                <p class="u-heading-font u-small-text u-text u-text-variant u-text-7">
-                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-7" href="mailto:info@datapluse.co.in">info@datapluse.co.in </a>
-                </p>
-                <span class="u-file-icon u-icon u-text-white u-icon-2"><img src="images/1161776-4388a17d.png" alt=""></span>
-                <p class="u-heading-font u-text u-text-8">
-                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-8" href="https://maps.app.goo.gl/xGbaQuvKBdqdhvxh9">602 Pushti Heights Shubash Chowk,&nbsp; &nbsp; &nbsp;Gurukul Road Memnagar ,&nbsp; &nbsp; &nbsp;Ahmedabad 54.</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><div class="custom-expanded u-border-1 u-border-white u-line u-line-horizontal u-opacity u-opacity-50 u-line-1"></div><div class="u-social-icons u-spacing-10 u-social-icons-1">
-        <a class="u-social-url" title="facebook" target="_blank" href="">
-          <span class="u-icon u-social-facebook u-social-icon u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" ><use xlink:href="#svg-f92f"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-f92f"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
-      c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
-        </a>
-        <a class="u-social-url" title="twitter" target="_blank" href="">
-          <span class="u-icon u-social-icon u-social-twitter u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" ><use xlink:href="#svg-878e"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-878e"><circle fill="currentColor" class="st0" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M83.8,47.3c0,0.6,0,1.2,0,1.7c0,17.7-13.5,38.2-38.2,38.2C38,87.2,31,85,25,81.2c1,0.1,2.1,0.2,3.2,0.2
-      c6.3,0,12.1-2.1,16.7-5.7c-5.9-0.1-10.8-4-12.5-9.3c0.8,0.2,1.7,0.2,2.5,0.2c1.2,0,2.4-0.2,3.5-0.5c-6.1-1.2-10.8-6.7-10.8-13.1
-      c0-0.1,0-0.1,0-0.2c1.8,1,3.9,1.6,6.1,1.7c-3.6-2.4-6-6.5-6-11.2c0-2.5,0.7-4.8,1.8-6.7c6.6,8.1,16.5,13.5,27.6,14
-      c-0.2-1-0.3-2-0.3-3.1c0-7.4,6-13.4,13.4-13.4c3.9,0,7.3,1.6,9.8,4.2c3.1-0.6,5.9-1.7,8.5-3.3c-1,3.1-3.1,5.8-5.9,7.4
-      c2.7-0.3,5.3-1,7.7-2.1C88.7,43,86.4,45.4,83.8,47.3z"></path></svg></span>
-        </a>
-        <a class="u-social-url" title="instagram" target="_blank" href="">
-          <span class="u-icon u-social-icon u-social-instagram u-icon-5"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" ><use xlink:href="#svg-cf7b"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-cf7b"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
-      z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
-      C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
-      c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
-        </a>
-        <a class="u-social-url" target="_blank" data-type="LinkedIn" title="LinkedIn" href="">
-          <span class="u-icon u-social-icon u-social-linkedin u-icon-6"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" ><use xlink:href="#svg-fbf0"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-fbf0"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M41.3,83.7H27.9V43.4h13.4V83.7z M34.6,37.9L34.6,37.9c-4.6,0-7.5-3.1-7.5-7c0-4,3-7,7.6-7s7.4,3,7.5,7
-      C42.2,34.8,39.2,37.9,34.6,37.9z M89.6,83.7H76.2V62.2c0-5.4-1.9-9.1-6.8-9.1c-3.7,0-5.9,2.5-6.9,4.9c-0.4,0.9-0.4,2.1-0.4,3.3v22.5
-      H48.7c0,0,0.2-36.5,0-40.3h13.4v5.7c1.8-2.7,5-6.7,12.1-6.7c8.8,0,15.4,5.8,15.4,18.1V83.7z"></path></svg></span>
-        </a>
-      </div><a href="index.php" data-page-id="20059737" class=c data-image-width="3137" data-image-height="1845" title="Page 1">
-        <img src="images/3.png" class="u-logo-image u-logo-image-1">
-      </a></footer>
 
-  
-</body></html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <title>footer</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width,initial-scale">
+   <link rel="stylesheet" href="footer2.css" media="screen">
+   <link rel="stylesheet" type="text/css"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+   
+  </head>
+    <body>
+      <div class="pg-footer">
+  <footer class="footer">
+    <svg class="footer-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+      <path class="footer-wave-path" d="M851.8,100c125,0,288.3-45,348.2-64V0H0v44c3.7-1,7.3-1.9,11-2.9C80.7,22,151.7,10.8,223.5,6.3C276.7,2.9,330,4,383,9.8 c52.2,5.7,103.3,16.2,153.4,32.8C623.9,71.3,726.8,100,851.8,100z"></path>
+    </svg>
+    <div class="footer-content">
+      <div class="footer-content-column">
+        <div class="footer-logo">
+          <a class="footer-logo-link" href="images/3.png">
+            <span class="hidden-link-text">LOGO</span>
+            <h1>LOGO</h1>
+            
+            
+          </a>
+        </div>
+        <div class="footer-menu">
+          <h2 class="footer-menu-name"> IT Services</h2>
+          <ul id="menu-get-started" class="footer-menu-list">
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="it-infrastucture.php">Infrastructure Management Services</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="System IntegrationServices.php">System Integration Services</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="data-center.php">Data Center</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="data-availbility.php">Data Availability</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="Virtualization.php">Virtualization</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="CloudServices.php">Cloud Computing</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-product">
+              <a href="Email Spam Protections.php">Email Protection</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-content-column">
+        <div class="footer-menu">
+          <h2 class="footer-menu-name"> Converged Network</h2>
+          <ul id="menu-company" class="footer-menu-list">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="">Structured Cabling System </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="Digital Networking.php">Digital Networking</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Wireless Mobility.php">Wireless & Mobility</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="security.php">Security</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Unified Communication.php">Unified Communication</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Network Management System.php">Network Management System</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Servers-1.php">Servers</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Storage Systems.php">Storage Systems</a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-menu" style="
+    margin-left: -307px;
+">
+          <h2 class="footer-menu-name"> Support</h2>
+          <ul id="menu-legal" class="footer-menu-list">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-170434">
+              <a href="IT Outsourcing.php">IT Out Sourcing</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Maintenance Support.php">Maintenace Support</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Security Audit.php">Srcurity Audit</a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-menu" style="
+    margin-left: -11px;
+    margin-top: -100px;
+">
+
+          <h2 class="footer-menu-name"> Adresss</h2>
+          <ul id="menu-legal" class="footer-menu-list">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-170434">
+              <a href="#">Australia  </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="#">9 Eravatamia Street 
+                Runcorn QLD- 4113
+               +61 410 11 8386</a>
+               <li><a href="#">India  </a></li>
+               <li><a href="#">602 Pushti Heights, 
+                Shubash Chowk,Gurukul Road,
+                Memnager,Ahemadabad,54.
+                M: +91 8000120384 </a></li>
+            </li>
+            
+            </li>
+          </ul>
+        </div>
+      </div>
+
+        <!-- <h2 class="footer-menu-name"> Adresss</h2>
+          <ul id="menu-legal" class="footer-menu-list">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-170434">
+              <a href="#">Ahemadabad  </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+             </li>
+                <li>602 Pushti Hegights, 
+                  Shubash Chowk,Gurukul Road,
+                  Memnager,Ahemadabad,54.
+                  </li>
+                <a href="#"> M: +91 8000120384 </a>
+                
+            
+            </li>
+          </ul>
+        </div>
+      </div>  -->
+      
+      <div class="footer-content-column">
+        <div class="footer-menu">
+          <h2 class="footer-menu-name"> ELV</h2>
+          <ul id="menu-quick-links" class="footer-menu-list">
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+              <a target="_blank" rel="noopener noreferrer" href="Surveillance & Video Analytics-1.php">Surveillance & Video Analytics</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+              <a target="_blank" rel="noopener noreferrer" href="Access Control System & Visitor Management.php">Access Control System </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="Fire Detection & Suppression System -1.php">Fire detection & Suppression system              </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="BMS (Building Management System)-1.php">BMS (Building Management System)</a>
+            </li>
+            <li class="menu-item menu-item-type-post_type_archive menu-item-object-customer">
+              <a href="Boom Barrier & Parking Management-1.php">Boom barrier & Parking Management</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+
+
+
+      <div class="footer-content-column">
+        <div class="footer-call-to-action">
+          <h2 class="footer-call-to-action-title"> Let's Chat</h2>
+          <p class="footer-call-to-action-description"> Have a support question?</p>
+          <a class="footer-call-to-action-button button" href="#" target="_self"> Get in Touch </a>
+        </div>
+        <div class="footer-call-to-action">
+          <h2 class="footer-call-to-action-title"> You Call Us</h2>
+          <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> 0124-64XXXX </a></p>
+        </div>
+      </div>
+      <div class="footer-social-links"> <svg class="footer-social-amoeba-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 54">
+          <path class="footer-social-amoeba-path" d="M223.06,43.32c-.77-7.2,1.87-28.47-20-32.53C187.78,8,180.41,18,178.32,20.7s-5.63,10.1-4.07,16.7-.13,15.23-4.06,15.91-8.75-2.9-6.89-7S167.41,36,167.15,33a18.93,18.93,0,0,0-2.64-8.53c-3.44-5.5-8-11.19-19.12-11.19a21.64,21.64,0,0,0-18.31,9.18c-2.08,2.7-5.66,9.6-4.07,16.69s.64,14.32-6.11,13.9S108.35,46.5,112,36.54s-1.89-21.24-4-23.94S96.34,0,85.23,0,57.46,8.84,56.49,24.56s6.92,20.79,7,24.59c.07,2.75-6.43,4.16-12.92,2.38s-4-10.75-3.46-12.38c1.85-6.6-2-14-4.08-16.69a21.62,21.62,0,0,0-18.3-9.18C13.62,13.28,9.06,19,5.62,24.47A18.81,18.81,0,0,0,3,33a21.85,21.85,0,0,0,1.58,9.08,16.58,16.58,0,0,1,1.06,5A6.75,6.75,0,0,1,0,54H236C235.47,54,223.83,50.52,223.06,43.32Z"></path>
+        </svg>
+        <a class="footer-social-link linkedin" href="#" target="_blank">
+          <span class="hidden-link-text">Linkedin</span>
+          <svg class="footer-social-icon-svg" xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 30 30">
+            <path class="footer-social-icon-path" d="M9,25H4V10h5V25z M6.501,8C5.118,8,4,6.879,4,5.499S5.12,3,6.501,3C7.879,3,9,4.121,9,5.499C9,6.879,7.879,8,6.501,8z M27,25h-4.807v-7.3c0-1.741-0.033-3.98-2.499-3.98c-2.503,0-2.888,1.896-2.888,3.854V25H12V9.989h4.614v2.051h0.065 c0.642-1.18,2.211-2.424,4.551-2.424c4.87,0,5.77,3.109,5.77,7.151C27,16.767,27,25,27,25z"></path>
+          </svg>
+        </a>
+        <a class="footer-social-link twitter" href="#" target="_blank">
+          <span class="hidden-link-text">Twitter</span>
+          <svg class="footer-social-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26">
+            <path class="footer-social-icon-path" d="M 25.855469 5.574219 C 24.914063 5.992188 23.902344 6.273438 22.839844 6.402344 C 23.921875 5.75 24.757813 4.722656 25.148438 3.496094 C 24.132813 4.097656 23.007813 4.535156 21.8125 4.769531 C 20.855469 3.75 19.492188 3.113281 17.980469 3.113281 C 15.082031 3.113281 12.730469 5.464844 12.730469 8.363281 C 12.730469 8.773438 12.777344 9.175781 12.867188 9.558594 C 8.503906 9.339844 4.636719 7.246094 2.046875 4.070313 C 1.59375 4.847656 1.335938 5.75 1.335938 6.714844 C 1.335938 8.535156 2.261719 10.140625 3.671875 11.082031 C 2.808594 11.054688 2 10.820313 1.292969 10.425781 C 1.292969 10.449219 1.292969 10.46875 1.292969 10.492188 C 1.292969 13.035156 3.101563 15.15625 5.503906 15.640625 C 5.0625 15.761719 4.601563 15.824219 4.121094 15.824219 C 3.78125 15.824219 3.453125 15.792969 3.132813 15.730469 C 3.800781 17.8125 5.738281 19.335938 8.035156 19.375 C 6.242188 20.785156 3.976563 21.621094 1.515625 21.621094 C 1.089844 21.621094 0.675781 21.597656 0.265625 21.550781 C 2.585938 23.039063 5.347656 23.90625 8.3125 23.90625 C 17.96875 23.90625 23.25 15.90625 23.25 8.972656 C 23.25 8.742188 23.246094 8.515625 23.234375 8.289063 C 24.261719 7.554688 25.152344 6.628906 25.855469 5.574219 "></path>
+          </svg>
+        </a>
+        <a class="footer-social-link youtube" href="#" target="_blank">
+          <span class="hidden-link-text">Youtube</span>
+          <svg class="footer-social-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+            <path class="footer-social-icon-path" d="M 15 4 C 10.814 4 5.3808594 5.0488281 5.3808594 5.0488281 L 5.3671875 5.0644531 C 3.4606632 5.3693645 2 7.0076245 2 9 L 2 15 L 2 15.001953 L 2 21 L 2 21.001953 A 4 4 0 0 0 5.3769531 24.945312 L 5.3808594 24.951172 C 5.3808594 24.951172 10.814 26.001953 15 26.001953 C 19.186 26.001953 24.619141 24.951172 24.619141 24.951172 L 24.621094 24.949219 A 4 4 0 0 0 28 21.001953 L 28 21 L 28 15.001953 L 28 15 L 28 9 A 4 4 0 0 0 24.623047 5.0546875 L 24.619141 5.0488281 C 24.619141 5.0488281 19.186 4 15 4 z M 12 10.398438 L 20 15 L 12 19.601562 L 12 10.398438 z"></path>
+          </svg>
+        </a>
+        <a class="footer-social-link github" href="#" target="_blank">
+          <span class="hidden-link-text">Github</span>
+          <svg class="footer-social-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+            <path class="footer-social-icon-path" d="M 16 4 C 9.371094 4 4 9.371094 4 16 C 4 21.300781 7.4375 25.800781 12.207031 27.386719 C 12.808594 27.496094 13.027344 27.128906 13.027344 26.808594 C 13.027344 26.523438 13.015625 25.769531 13.011719 24.769531 C 9.671875 25.492188 8.96875 23.160156 8.96875 23.160156 C 8.421875 21.773438 7.636719 21.402344 7.636719 21.402344 C 6.546875 20.660156 7.71875 20.675781 7.71875 20.675781 C 8.921875 20.761719 9.554688 21.910156 9.554688 21.910156 C 10.625 23.746094 12.363281 23.214844 13.046875 22.910156 C 13.15625 22.132813 13.46875 21.605469 13.808594 21.304688 C 11.144531 21.003906 8.34375 19.972656 8.34375 15.375 C 8.34375 14.0625 8.8125 12.992188 9.578125 12.152344 C 9.457031 11.851563 9.042969 10.628906 9.695313 8.976563 C 9.695313 8.976563 10.703125 8.65625 12.996094 10.207031 C 13.953125 9.941406 14.980469 9.808594 16 9.804688 C 17.019531 9.808594 18.046875 9.941406 19.003906 10.207031 C 21.296875 8.65625 22.300781 8.976563 22.300781 8.976563 C 22.957031 10.628906 22.546875 11.851563 22.421875 12.152344 C 23.191406 12.992188 23.652344 14.0625 23.652344 15.375 C 23.652344 19.984375 20.847656 20.996094 18.175781 21.296875 C 18.605469 21.664063 18.988281 22.398438 18.988281 23.515625 C 18.988281 25.121094 18.976563 26.414063 18.976563 26.808594 C 18.976563 27.128906 19.191406 27.503906 19.800781 27.386719 C 24.566406 25.796875 28 21.300781 28 16 C 28 9.371094 22.628906 4 16 4 Z "></path>
+          </svg>
+        </a>
+      </div>
+    </div>
+    <div class="footer-copyright" style="
+    margin-top: 27px";>
+      <div class="footer-copyright-wrapper">
+        <p class="footer-copyright-text">
+          <a class="footer-copyright-link" href="#" target="_self">© 2025 Data Pluse Solution. All Rights Reserved </a>
+        </p>
+      </div>
+    </div>
+  </footer>
+</div>
+    </body>
+
+    
+
+
+
+
+
+
+
+
+    
+
+       
+
+        
+          
+          
+          
+         
+             
