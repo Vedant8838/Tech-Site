@@ -43,7 +43,6 @@
         
         
         
-        
         <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
         <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
         <script type="application/ld+json">{
@@ -72,14 +71,13 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Center </h1>
-                      <p class="u-align-left u-text u-text-2">A data center is a physical facility that stores and manages computing equipment and data for businesses. Data centers are home to servers, storage devices, and network equipment. </p>
-                      <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Availability</h1>
+                      <p class="u-align-left u-text u-text-2"> Data availability is the accessibility, usability, and integrity of data. It's a key factor in data management and analytics. </a>
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-image u-image-round u-radius u-image-1" src="images/image.png" alt="" data-image-width="1000" data-image-height="667">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
                     </div>
                   </div>
                 </div>
@@ -101,7 +99,6 @@
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
-                      
                       </p>
                       <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                     </div>
@@ -115,30 +112,23 @@
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
           <div class="u-clearfix u-sheet u-sheet-1">
-            <h4 class="u-text u-text-palette-1-base u-text-1">Data Center </h4>
-            <p class="u-text u-text-2"> Data Pluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.Does your current IT system have the ability to grow and change with your business? With a completely scalable office cable management strategy in place, you're assured a secure system that works in tandem with your developing company.InfoSerice has the office moving and office cabling services that will provide your Irvine, Costa Mesa, Newport Beach and Orange County business with lasting benefits, no matter where your business takes you.<br>
-              <p class="u-text u-text-2">InfoServe Solution can help you to provide state of art Data Centre Infrastructure, our industry aligned technology architects provide solutions that work and adds exceptional value. We understand business intricacy; we know our technology and we know how to bring this knowledge and understanding together to provide end-to end Datacenter Infrastructure solution and integrating it to work seamlessly.<br>
-                <p class="u-text u-text-2">We specialize in planning, design, build, monitoring, maintenance and upgrade Data Centers Physical Infrastructure and Server Rooms that integrates, ‘best-of-breed’, “state of art”, “Latest Technology” and “Vender Independent” infrastructure technologies. The result is an always available, scalable, redundant, fault -tolerant, manageable, and maintainable Data Center environment.<br>
-                  <li class="u-text u-text-2">We are provideing data cneter ralted below services :
-                    <li class="u-text u-text-2"> Rack, Cabinet & Support Infrastructure</li>
-                     <li  class="u-text u-text-2"> Cooling Infrastructure</li>
-                     <li class="u-text u-text-2"> Power & Distribution Infrastructure</li>
-                     <li class="u-text u-text-2">Passive Infrastructure</li>
-                     <li class="u-text u-text-2"> Safety and Security Infrastructure</li>
-                    
-                   
-                    
-              <br>.
+            <h4 class="u-text u-text-palette-1-base u-text-1">Data Availability</h4>
+            <p class="u-text u-text-2"> In today’s world maintaining the integrity of data and its function is indisputable. In today’s environment, data and application availability are critical for the continued operation of every business. Any network downtime can extract high cost from your business both in terms of time and money. Infoserve understands this and provides data availability solutions for business continuity.<br>
+            <p class="u-text u-text-2">Data Pluse Solution provides Data availability services and integrated Data Services like enterprise backup, recovery software, appliances, disk to disk backup, de-duplication, e-discovery and offsite data vaulting solutions. Our backup & recovery practice are the foundation of a modern data management system. This allows administrators to work more efficiently by simplifying the management of data assets. Our systems are optimized to protect data wherever it resides, i.e. physical, virtual, and in the cloud.<br>
+               <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+            <li class="u-text u-text-2">Backup and recovery Solutions: Backup is a process where copy of your data is created, while recovery is process where in case you lose data in unforeseen circumstances, you can recover your data from the stored backup. Data backup and recovery is a starting point for a holistic disaster recovery. In addition to backing up and safeguarding data, we, at Infoserve solutions, ensure that your applications that utilize data are up and running in record time during times of outage  </li>
+            <li class="u-text u-text-2">Data Archive: Data archiving is the process of moving data that is no longer actively used to a separate data storage device for long-term retention. The explosive growth of data emphasizes the reliance on information systems in various industries. Enterprise data becomes an important intangible asset for each enterprise, but how to manage the data effectively and efficiently remains unanswered.Data archiving solutions can minimize users’ operating costs, simplify the retrieval to key information, reduce underlying storage expenditure, and meet law-compliance requirements.  </li>
+            <li class="u-text u-text-2">Disaster Recovery: There are many varied threats to business-critical systems. Natural disasters like flooding and fire, along with people factors, such as a disgruntled employees or human error that lets in a virus, make it essential to have a disaster recovery plan for business continuity. We understand the importance of your data and business information. Also we understand that the traditional disaster recovery solutions are costly and complex and cannot meet the objectives of a business. Infoserve disaster recovery plans let businesses recover data to any machine, reducing hardware costs and lowering the complexity of maintaining a backup site.  </li>
+            <li class="u-text u-text-2">Business continuity: Business continuity is the activity performed by an organization to ensure that critical business functions will be available to customers, suppliers, regulators, and other entities that must have access to those functions. These activities include many daily jobs such as project management, system backups, change control, and help desks. Business continuity refers to those activities performed on a daily basis to maintain service, consistency, and recoverability, not something that is implemented at the time of a disaster.  </li>
+            <li class="u-text u-text-2">Data Leakage Prevention: Data Pluse Solution provides Data Leakage or Loss Prevention solutions by identifying, monitoring, and protecting the data in use, data in transit and data at your servers. We help organizations in protection by recommending products and solutions by continually inspecting the security analysis of each transaction with a centralized management architecture.  </li>
+          
             </p>
           </div>
         </section>
-        <?php include('Fotter2.php'); ?>
-        
-        
-        
-
-       
-
-    </body></html>
+      
+    
+    <?php include('fotter.php'); ?>
 
 
+
+</body></html>

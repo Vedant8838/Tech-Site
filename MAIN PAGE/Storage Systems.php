@@ -72,14 +72,14 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Center </h1>
-                      <p class="u-align-left u-text u-text-2">A data center is a physical facility that stores and manages computing equipment and data for businesses. Data centers are home to servers, storage devices, and network equipment. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Storage Systems</h1>
+                      <p class="u-align-left u-text u-text-2">A server is a computer or system that provides resources, services, or programs to other computers, called clients. Servers can be physical computers or computer programs. </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-image u-image-round u-radius u-image-1" src="images/image.png" alt="" data-image-width="1000" data-image-height="667">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
                     </div>
                   </div>
                 </div>
@@ -101,7 +101,6 @@
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
-                      
                       </p>
                       <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                     </div>
@@ -115,30 +114,24 @@
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
           <div class="u-clearfix u-sheet u-sheet-1">
-            <h4 class="u-text u-text-palette-1-base u-text-1">Data Center </h4>
-            <p class="u-text u-text-2"> Data Pluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.Does your current IT system have the ability to grow and change with your business? With a completely scalable office cable management strategy in place, you're assured a secure system that works in tandem with your developing company.InfoSerice has the office moving and office cabling services that will provide your Irvine, Costa Mesa, Newport Beach and Orange County business with lasting benefits, no matter where your business takes you.<br>
-              <p class="u-text u-text-2">InfoServe Solution can help you to provide state of art Data Centre Infrastructure, our industry aligned technology architects provide solutions that work and adds exceptional value. We understand business intricacy; we know our technology and we know how to bring this knowledge and understanding together to provide end-to end Datacenter Infrastructure solution and integrating it to work seamlessly.<br>
-                <p class="u-text u-text-2">We specialize in planning, design, build, monitoring, maintenance and upgrade Data Centers Physical Infrastructure and Server Rooms that integrates, ‘best-of-breed’, “state of art”, “Latest Technology” and “Vender Independent” infrastructure technologies. The result is an always available, scalable, redundant, fault -tolerant, manageable, and maintainable Data Center environment.<br>
-                  <li class="u-text u-text-2">We are provideing data cneter ralted below services :
-                    <li class="u-text u-text-2"> Rack, Cabinet & Support Infrastructure</li>
-                     <li  class="u-text u-text-2"> Cooling Infrastructure</li>
-                     <li class="u-text u-text-2"> Power & Distribution Infrastructure</li>
-                     <li class="u-text u-text-2">Passive Infrastructure</li>
-                     <li class="u-text u-text-2"> Safety and Security Infrastructure</li>
-                    
-                   
-                    
-              <br>.
+            <h4 class="u-text u-text-palette-1-base u-text-1">Storage Systems</h4>
+            <p class="u-text u-text-2">Data Pluse Sloutions can design, deliver and support you with storage solutions that will address your needs around information compliance, availability, retention and security and deliver maximum value for your investment<br>
+            <p class="u-text u-text-2">We offer a complete portfolio of storage systems like Storage Area Network (SAN), Network Area storage (NAS), Unified Storage System, Tape and Cloud based storage which gives you best-in-class availability and performance to meet the needs of your business applications. <br>
+            <p class="u-text u-text-2">Data Pluse Sloutions, as system servers’ providers, understands growing business needs of our customers and designs a strategic, cost-effective server solution that supports changing demands. In fact, it also provides well-planned server strategies that can help businesses achieve optimum performance, availability, efficiency and business value from server infrastructure investments.<br>
+            
+
+                <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+            <li class="u-text u-text-2">Data Pluse Sloutions, as a Storage System Provider, provides Storage solutions through highly resilient, hardware data storage solutions which include the required speed, performance, flexibility, scalability & security for today’s entry to enterprise storage solutions. Storage solutions will help organizations stock, protect, optimize & leverage their existing & ever-growing information.            </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutionsoffers a range of best-in-class proven storage solutions that meet a variety of your most critical business data management needs.  </li>
+            <li class="u-text u-text-2"> professionals can assist you in determining what solutions will be in sync with your objectives. We provide networked storage topologies which can bring increased levels of performance, flexibility, simplification, resource utilization, data availability, and disaster recovery capabilities to your organization. </li>
+            <li class="u-text u-text-2"> Data Pluse Sloutions In addition to these we help you strategize for data availability, speed of access and secure sharing of data inside and outside your enterprise. Our solution allows you to meet growing demands for capacity, storage performance and align your storage management with your business strategies. </li>
+            >
+          
             </p>
           </div>
         </section>
-        <?php include('Fotter2.php'); ?>
-        
-        
-        
 
-       
-
-    </body></html>
+        <?php include('fotter.php'); ?>
 
 
+</body></html>

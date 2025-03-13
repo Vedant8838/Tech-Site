@@ -44,7 +44,8 @@
         
         
         
-        <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+        
+<link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
         <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
         <script type="application/ld+json">{
             "@context": "http://schema.org",
@@ -72,14 +73,14 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Center </h1>
-                      <p class="u-align-left u-text u-text-2">A data center is a physical facility that stores and manages computing equipment and data for businesses. Data centers are home to servers, storage devices, and network equipment. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Surveillance & Video Analytics</h1>
+                      <p class="u-align-left u-text u-text-2"> Video analytics is a technology that uses algorithms to analyze video footage to detect events and generate insights. Surveillance systems use video analytics to monitor and respond to suspicious activity.  </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-image u-image-round u-radius u-image-1" src="images/image.png" alt="" data-image-width="1000" data-image-height="667">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
                     </div>
                   </div>
                 </div>
@@ -101,7 +102,6 @@
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
-                      
                       </p>
                       <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                     </div>
@@ -114,31 +114,21 @@
           
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
-          <div class="u-clearfix u-sheet u-sheet-1">
-            <h4 class="u-text u-text-palette-1-base u-text-1">Data Center </h4>
-            <p class="u-text u-text-2"> Data Pluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.Does your current IT system have the ability to grow and change with your business? With a completely scalable office cable management strategy in place, you're assured a secure system that works in tandem with your developing company.InfoSerice has the office moving and office cabling services that will provide your Irvine, Costa Mesa, Newport Beach and Orange County business with lasting benefits, no matter where your business takes you.<br>
-              <p class="u-text u-text-2">InfoServe Solution can help you to provide state of art Data Centre Infrastructure, our industry aligned technology architects provide solutions that work and adds exceptional value. We understand business intricacy; we know our technology and we know how to bring this knowledge and understanding together to provide end-to end Datacenter Infrastructure solution and integrating it to work seamlessly.<br>
-                <p class="u-text u-text-2">We specialize in planning, design, build, monitoring, maintenance and upgrade Data Centers Physical Infrastructure and Server Rooms that integrates, ‘best-of-breed’, “state of art”, “Latest Technology” and “Vender Independent” infrastructure technologies. The result is an always available, scalable, redundant, fault -tolerant, manageable, and maintainable Data Center environment.<br>
-                  <li class="u-text u-text-2">We are provideing data cneter ralted below services :
-                    <li class="u-text u-text-2"> Rack, Cabinet & Support Infrastructure</li>
-                     <li  class="u-text u-text-2"> Cooling Infrastructure</li>
-                     <li class="u-text u-text-2"> Power & Distribution Infrastructure</li>
-                     <li class="u-text u-text-2">Passive Infrastructure</li>
-                     <li class="u-text u-text-2"> Safety and Security Infrastructure</li>
-                    
-                   
-                    
-              <br>.
-            </p>
-          </div>
-        </section>
-        <?php include('Fotter2.php'); ?>
-        
-        
-        
-
-       
-
+            <div class="u-clearfix u-sheet u-sheet-1">
+              <h4 class="u-text u-text-palette-1-base u-text-1">Surveillance & Video Analytics </h4>
+              <p class="u-text u-text-2"> In present time, surveillance is all pervasive, cutting across various industries and Commercial business. The associated technology is converting from standalone and analog video to networked (IP) and digital video. With help of Surveillance system in commercial premises or residential property, we are able to identify each clients’ necessities. Some requirements include here like Overseeing your employees and cash registers, All time your premises will keep protected, movement Screening in a particularly high-risk area, Preventing Shoplifting, Monitoring vandalism, Keeping an eye on unwanted visitors scrolling around your home.<br>
+                  <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offerings</h5>
+                  <li class="u-text u-text-2">The intelligent video surveillance solution from Microlink offers comprehensive IP video surveillance and Video Analytics software, which are capable of addressing small, medium and large installations. Video analytics provides the data that tracks the movement of people and vehicles to help end users better understand their operations and potential revenue opportunities.
+                  <li class="u-text u-text-2">Data Pluse Solutions is also provides solution for real-time counting data of people and vehicles entering or exiting a camera scene. Two innovative analytics algorithms include the ability to track people entering a target zone and how long they dwell in the area. This data can provide businesses with powerful insight into the design, use, and efficiency of operations.
+                  <li class="u-text u-text-2">We provide your various security related support, like surveillance of your corporate, factory, ware house, branch office, Offices or any desire place from anywhere. Security solutions for prevent theft or damage your valuables. Solution with latest technology to reduce your efforts and enhance your efficiency.
+                </li>
+                      <br>.
+              </p>
+            </div>
+          </section>
+          <?php include('fotter.php'); ?>
     </body></html>
 
 
+
+</body></html>

@@ -42,8 +42,6 @@
         
         
         
-        
-        
         <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
         <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
         <script type="application/ld+json">{
@@ -72,14 +70,14 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Center </h1>
-                      <p class="u-align-left u-text u-text-2">A data center is a physical facility that stores and manages computing equipment and data for businesses. Data centers are home to servers, storage devices, and network equipment. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Maintenance Support</h1>
+                      <p class="u-align-left u-text u-text-2">Maintenance and support is the process of keeping something working properly and providing assistance when needed.  </p>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-image u-image-round u-radius u-image-1" src="images/image.png" alt="" data-image-width="1000" data-image-height="667">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
                     </div>
                   </div>
                 </div>
@@ -101,7 +99,6 @@
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
-                      
                       </p>
                       <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                     </div>
@@ -114,31 +111,32 @@
           
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
-          <div class="u-clearfix u-sheet u-sheet-1">
-            <h4 class="u-text u-text-palette-1-base u-text-1">Data Center </h4>
-            <p class="u-text u-text-2"> Data Pluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.Does your current IT system have the ability to grow and change with your business? With a completely scalable office cable management strategy in place, you're assured a secure system that works in tandem with your developing company.InfoSerice has the office moving and office cabling services that will provide your Irvine, Costa Mesa, Newport Beach and Orange County business with lasting benefits, no matter where your business takes you.<br>
-              <p class="u-text u-text-2">InfoServe Solution can help you to provide state of art Data Centre Infrastructure, our industry aligned technology architects provide solutions that work and adds exceptional value. We understand business intricacy; we know our technology and we know how to bring this knowledge and understanding together to provide end-to end Datacenter Infrastructure solution and integrating it to work seamlessly.<br>
-                <p class="u-text u-text-2">We specialize in planning, design, build, monitoring, maintenance and upgrade Data Centers Physical Infrastructure and Server Rooms that integrates, ‘best-of-breed’, “state of art”, “Latest Technology” and “Vender Independent” infrastructure technologies. The result is an always available, scalable, redundant, fault -tolerant, manageable, and maintainable Data Center environment.<br>
-                  <li class="u-text u-text-2">We are provideing data cneter ralted below services :
-                    <li class="u-text u-text-2"> Rack, Cabinet & Support Infrastructure</li>
-                     <li  class="u-text u-text-2"> Cooling Infrastructure</li>
-                     <li class="u-text u-text-2"> Power & Distribution Infrastructure</li>
-                     <li class="u-text u-text-2">Passive Infrastructure</li>
-                     <li class="u-text u-text-2"> Safety and Security Infrastructure</li>
-                    
-                   
-                    
-              <br>.
-            </p>
-          </div>
-        </section>
-        <?php include('Fotter2.php'); ?>
-        
-        
-        
+            <div class="u-clearfix u-sheet u-sheet-1">
+        <h4 class="u-text u-text-palette-1-base u-text-1">Maintenance Support</h4>
+        <p class="u-text u-text-2"> t’s always a smart idea to do right things at right time.Keeping devices in optimal working order and plan for the future with confidence are crucial to reduce the downtime. The best way to increase system uptime is with a good preventative maintenance plan.
+            <br>
+           
+                <li class="u-text u-text-2">AMC and Break fix Support
+                    <p class="u-text u-text-2">– Compute – PC, Server, Storage
+                    <p class="u-text u-text-2">– End Points
+                    <p class="u-text u-text-2">– Network, UC
+                    <p class="u-text u-text-2">– S&S Devices
+                    <p class="u-text u-text-2">– AV Devices
 
-       
+                <li class="u-text u-text-2">Desktop management
+                <li class="u-text u-text-2">Client Support & management Service
+                <li class="u-text u-text-2"> Onetime Services (Repairs, configuration, migration etc)
+                <li class="u-text u-text-2">Support Services for Consumers & SMBs
+                <li class="u-text u-text-2">Multi Brand Service Facility and Field Services
+                        </li>
+                        </p>
 
+      </div>
+    </section>
+      
     </body></html>
 
+    <?php include('fotter.php'); ?>
 
+
+</body></html>

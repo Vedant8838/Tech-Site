@@ -72,14 +72,14 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Data Center </h1>
-                      <p class="u-align-left u-text u-text-2">A data center is a physical facility that stores and manages computing equipment and data for businesses. Data centers are home to servers, storage devices, and network equipment. </p>
+                      <h1 class="u-align-left u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">BMS (Building Management System) </h1>
+                      <p class="u-text u-text-2"> A Building Management System (BMS) management refers to the process of overseeing and controlling a building's various systems like HVAC, lighting, security, and power, using a computer-based platform to monitor and optimize their operation, typically aiming to enhance energy efficiency, occupant comfort, and overall building performance through automated adjustments based on real-time data collection. <br>
                       <a href="#" class="u-active-white u-align-left u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-palette-1-light-1 u-radius-10 u-text-active-palette-3-base u-text-hover-palette-1-light-1 u-text-white u-btn-1" title="Blog">read more</a>
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-image u-image-round u-radius u-image-1" src="images/image.png" alt="" data-image-width="1000" data-image-height="667">
+                      <img class="u-image u-image-round u-radius u-image-1" src="images/1000_F_314927575_yqFMAuXFTNC6gBflR2njRZ4bQb8dAb7y.webp" alt="" data-image-width="1000" data-image-height="667">
                     </div>
                   </div>
                 </div>
@@ -101,7 +101,6 @@
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                     <div class="u-container-layout u-container-layout-2">
                       <p class="u-align-left u-hover-feature u-text u-text-white u-text-2">. ​Assessment and Design<br>. Product Procurement and Provisioning<br>. Internetworking<br>. Security and Data Protection Services<br>. Storage and Backup Data Storage<br>. Servers and Hosting<br>. Thin Client Computing<br>. High Availability Clustering<br>. Office Cabling -&nbsp;for construction that is both new and . existing, including fiber optics<br>. Relocation of your Office -&nbsp;for complete network, server,printer, and workstation moves<br>. Coordination of your Move -&nbsp;including your Internet, Web site, email, and telephony<br>. Cabling Blueprints and As-Built Documents -&nbsp;laying the groundwork for a strong network connections for your business.
-                      
                       </p>
                       <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius u-btn-1">CONTACT US </a>
                     </div>
@@ -114,31 +113,20 @@
           
         </section>
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
-          <div class="u-clearfix u-sheet u-sheet-1">
-            <h4 class="u-text u-text-palette-1-base u-text-1">Data Center </h4>
-            <p class="u-text u-text-2"> Data Pluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.Does your current IT system have the ability to grow and change with your business? With a completely scalable office cable management strategy in place, you're assured a secure system that works in tandem with your developing company.InfoSerice has the office moving and office cabling services that will provide your Irvine, Costa Mesa, Newport Beach and Orange County business with lasting benefits, no matter where your business takes you.<br>
-              <p class="u-text u-text-2">InfoServe Solution can help you to provide state of art Data Centre Infrastructure, our industry aligned technology architects provide solutions that work and adds exceptional value. We understand business intricacy; we know our technology and we know how to bring this knowledge and understanding together to provide end-to end Datacenter Infrastructure solution and integrating it to work seamlessly.<br>
-                <p class="u-text u-text-2">We specialize in planning, design, build, monitoring, maintenance and upgrade Data Centers Physical Infrastructure and Server Rooms that integrates, ‘best-of-breed’, “state of art”, “Latest Technology” and “Vender Independent” infrastructure technologies. The result is an always available, scalable, redundant, fault -tolerant, manageable, and maintainable Data Center environment.<br>
-                  <li class="u-text u-text-2">We are provideing data cneter ralted below services :
-                    <li class="u-text u-text-2"> Rack, Cabinet & Support Infrastructure</li>
-                     <li  class="u-text u-text-2"> Cooling Infrastructure</li>
-                     <li class="u-text u-text-2"> Power & Distribution Infrastructure</li>
-                     <li class="u-text u-text-2">Passive Infrastructure</li>
-                     <li class="u-text u-text-2"> Safety and Security Infrastructure</li>
-                    
-                   
-                    
-              <br>.
-            </p>
-          </div>
-        </section>
-        <?php include('Fotter2.php'); ?>
-        
-        
-        
+            <div class="u-clearfix u-sheet u-sheet-1">
+              <h4 class="u-text u-text-palette-1-base u-text-1">BMS (Building Management System)</h4>
+              <p class="u-text u-text-2"> Building management systems are a vital component to any data centre facility. It is an infrastructure control system that is installed with the aim to make secure and reliable buildings. The system allows for centralized management of infrastructure equipment through integrated computer-based application and ensures operations are being run efficiently and securely. It gives access to control and monitor activities like ventilation, lighting, power control, fire and security systems, lifts/ Elevators, Plumbing system etc.<br>
+                  <h5 class="u-text u-text-palette-1-base u-text-1">Solution Offering</h5>
+                  <li class="u-text u-text-2">Data Pluse Solutions offering solution for BMS, which is provides real-time central monitoring and control of all equipment, such as Chillers/Heat Exchangers, Cooling Towers, Chilled Water Pumps, Air Handling Units, VAVs, Fresh Air Systems, Fan Coil Units, Water Tanks, Pumps & Sumps, Lighting, Energy Meters, Electrical Systems, Room Control, Sewage Treatment Plant, Plumbing System, etc. The iBMS ensures synchronization of all system components to deliver optimized performance and energy efficiency.
+                  <li class="u-text u-text-2">All the data derived from the Field devices and Soft integrators are automatically routed into an BMS analytics platform for insights into how energy savings can be accomplished. The InfoServe provide 24/7 support of BMS system for smooth operation and energy efficient environment All time.
+                  
+                </li>
+                      <br>.
+              </p>
+            </div>
+          </section>
+          
 
-       
+          <?php include('fotter.php'); ?>
 
-    </body></html>
-
-
+</body></html>
