@@ -13,7 +13,7 @@
   	 <div class="container">
   	 	<div class="row">
   	 		<div class="footer-col">
-  	 			<h4>Services</h4>
+  	 			<h4>IT Services</h4>
   	 			<ul>
   	 				<li><a href="it-infrastucture.php">IT Infrastructure Solution</a></li>
   	 				<li><a href="System IntegrationServices.php">System Intigration Service</a></li>
@@ -25,7 +25,7 @@
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
-  	 			<h4>get help</h4>
+  	 			<h4>Coveraged Network</h4>
   	 			<ul>
   	 				<li><a href="Structured Cabling System.php">Structure Cabling System</a></li>
   	 				<li><a href="Wireless Mobility.php">Wireless Mobility & Recovery</a></li>
@@ -38,7 +38,7 @@
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
-  	 			<h4>online shop</h4>
+  	 			<h4>ELV(Extra-Low-Voltagw)</h4>
   	 			<ul>
   	 				<li><a href="Surveillance & Video Analytics-1.php">Survillence & Video Analytics</a></li>
   	 				<li><a href="Access Control System & Visitor Management.php">Access Control System & Recovery</a></li>
@@ -48,7 +48,7 @@
   	 			</ul>
   	 		</div>
 			   <div class="footer-col">
-				<h4>online shop</h4>
+				<h4>Support</h4>
 				<ul>
 					<li><a href="IT Outsourcing.php">IT OUT SOURCING</a></li>
 					<li><a href="Maintenance Support.php">MAINTENANCE SUPPORT& Recovery</a></li>
