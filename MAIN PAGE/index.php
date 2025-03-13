@@ -163,7 +163,7 @@ Services</p>
                 <img src="images/taylor-vick-M5tzZtFCOfs-unsplash.jpg" data-image-width="3956" data-image-height="2220">
                 <h4 class="u-align-left u-text u-text-default u-text-2">IT Infrastructure Solutions </h4>
                 <p class="u-align-left u-text u-text-3"> Datapluse Solution has been a premier builder for IT infrastructure. Our proven, professional approach ensures that your employees, customers, partners and prospects can communicate quickly, easily and reliably, from telephony to e-commerce to online collaboration.</p>
-                <a href="" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a>
+                <a href="it-infrastucture.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a>
               </div>
             </div>
             <div class="u-container-style u-hover-feature u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
@@ -171,31 +171,31 @@ Services</p>
                 <img src="images/d7++nqfnFmFg==.jpeg" data-image-width="4500" data-image-height="3150">
                 <h4 class="u-align-left u-text u-text-default u-text-4"> Email and Spam Protection</h4>
                 <p class="u-align-left u-text u-text-5"> While your company depends on email as a tool for communication and storing large quantities of critical business data, it can also be a real threat. With online attacks becoming more and more prevalent, including SPAM, phishing, viruses and malware, protecting yourself is no longer an option.</p>
-                <a href="" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-2">learn more</a>
+                <a href="Email Spam Protections.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-2">learn more</a>
               </div>
             </div>
             <div class="u-container-style u-hover-feature u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                 <img src="images/NNUw=.jpeg" data-image-width="5000" data-image-height="3220">
-                <h4 class="u-align-left u-text u-text-default u-text-6"> Data Backup &amp; Recovery</h4>
+                <h4 class="u-align-left u-text u-text-default u-text-6"> Data Center</h4>
                 <p class="u-align-left u-text u-text-7"> A good data backup is like an insurance policy - you hope you never need it, but when you do, it's invaluable.</p>
-                <a href="" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-3">learn more</a>
+                <a href="data-center.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-3">learn more</a>
               </div>
             </div>
             <div class="u-container-style u-hover-feature u-list-item u-repeater-item u-shape-rectangle u-list-item-4">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                 <img src="images/eXGUYNbwU6BBa6GWg=.jpeg" data-image-width="8939" data-image-height="5956">
-                <h4 class="u-align-left u-text u-text-default u-text-8"> Cybersecurity </h4>
+                <h4 class="u-align-left u-text u-text-default u-text-8"> Security </h4>
                 <p class="u-align-left u-text u-text-9"> As cybersecurity leaders, we have to create our message of influence because security is a culture, and you need the business to take place and be part of that security culture.</p>
-                <a href="" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-4">learn more</a>
+                <a href="security.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-4">learn more</a>
               </div>
             </div>
             <div class="u-container-style u-hover-feature u-list-item u-repeater-item u-shape-rectangle u-list-item-5">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                 <img src="images/digital-blue-hud-interface-team-concept1.jpg" data-image-width="4796" data-image-height="2980">
-                <h4 class="u-align-left u-text u-text-default u-text-10"> Enterprise Solutions</h4>
+                <h4 class="u-align-left u-text u-text-default u-text-10">System Integration service</h4>
                 <p class="u-align-left u-text u-text-11">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                <a href="" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-5">learn more</a>
+                <a href="System IntegrationServices.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-5">learn more</a>
               </div>
             </div>
           </div>
