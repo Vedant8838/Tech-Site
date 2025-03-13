@@ -5,6 +5,7 @@
     <meta name="keywords" content="INTUITIVE">
     <meta name="description" content="">
     <title>Datapluse</title>
+    <link rel="icon" type="image/x-icon" href="images/Favicon.png">
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="Page-1.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
