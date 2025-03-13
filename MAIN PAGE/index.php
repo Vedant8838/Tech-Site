@@ -145,7 +145,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 Technology Company specialized in IT 
 Infrastructure Products, Cloud Solutions and 
 Services</p>
-        <a href="Contact.php" class="u-border-radius-50 u-btn u-btn-round u-button-style u-btn-1">Read More</a>
+        <a href="Aboutus.php" class="u-border-radius-50 u-btn u-btn-round u-button-style u-btn-1">Read More</a>
       </div>
     </section>
     <section class="skrollable u-clearfix u-image u-lightbox u-shading u-section-2" id="block-5" data-image-width="4076" data-image-height="2712">
