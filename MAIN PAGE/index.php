@@ -170,7 +170,7 @@ Services</p>
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
                 <img src="images/d7++nqfnFmFg==.jpeg" data-image-width="4500" data-image-height="3150">
                 <h4 class="u-align-left u-text u-text-default u-text-4"> Email and Spam Protection</h4>
-                <p class="u-align-left u-text u-text-5"> While your company depends on email as a tool for communication and storing large quantities of critical business data, it can also be a real threat. With online attacks becoming more and more prevalent, including SPAM, phishing, viruses and malware, protecting yourself is no longer an option.</p>
+                <p class="u-align-left u-text u-text-5"> Streamline business processes - By offloading huge storage needs from your server.Safeguard your email and your business - Prevent viruses, SPAM, worms and other online threats</p>
                 <a href="Email Spam Protections.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-2">learn more</a>
               </div>
             </div>
@@ -186,7 +186,7 @@ Services</p>
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                 <img src="images/eXGUYNbwU6BBa6GWg=.jpeg" data-image-width="8939" data-image-height="5956">
                 <h4 class="u-align-left u-text u-text-default u-text-8"> Security </h4>
-                <p class="u-align-left u-text u-text-9"> As cybersecurity leaders, we have to create our message of influence because security is a culture, and you need the business to take place and be part of that security culture.</p>
+                <p class="u-align-left u-text u-text-9"> Risk Management - we find the possible faults in your network and show you how to repair them.</p>
                 <a href="security.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-4">learn more</a>
               </div>
             </div>
@@ -194,7 +194,7 @@ Services</p>
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                 <img src="images/digital-blue-hud-interface-team-concept1.jpg" data-image-width="4796" data-image-height="2980">
                 <h4 class="u-align-left u-text u-text-default u-text-10">System Integration service</h4>
-                <p class="u-align-left u-text u-text-11">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                <p class="u-align-left u-text u-text-11">>Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, Datapluse Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.</p>
                 <a href="System IntegrationServices.php" class="u-active-none u-align-left u-border-2 u-border-hover-palette-2-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-light-1 u-btn u-button-style u-hover-none u-none u-text-body-color u-btn-5">learn more</a>
               </div>
             </div>
