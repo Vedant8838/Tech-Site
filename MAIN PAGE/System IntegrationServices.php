@@ -1,17 +1,44 @@
 <!DOCTYPE html>
+
 <html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="​Case Studies, ​Case Studies">
-    <meta name="description" content="">
-    <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage2.css" media="screen">
-<link rel="stylesheet" href="index.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
-    <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
-    
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="nicepage2.css" media="screen">
+<link rel="stylesheet" href="index2.css" media="screen">
+  <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage2.js" defer=""></script>
+  <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
+  
+  
+  
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+  <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "logo": "images/3.png",
+  "sameAs": []
+}</script>
+  <meta name="theme-color" content="#478ac9">
+  <meta property="og:title" content="Home">
+  <meta property="og:type" content="website">
+<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+<body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+  <?php include('header.php'); ?>
+  <html style="font-size: 16px;" lang="en"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta name="keywords" content="​Case Studies, ​Case Studies">
+        <meta name="description" content="">
+        <title>Page 1</title>
+        <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="index.css" media="screen">
+        <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+        <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+        <meta name="generator" content="Nicepage 7.5.2, nicepage.com">
     
     
     
@@ -27,7 +54,6 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="index.php" data-home-page-title="Page 1" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
-    <?php include('header.php'); ?>
     <section class="u-clearfix u-container-align-center u-shading u-uploaded-video u-video u-video-cover u-section-1" id="carousel_8440">
       <div class="u-background-video u-expanded" style="">
         <div class="embed-responsive">
@@ -90,7 +116,7 @@
         <h4 class="u-text u-text-palette-1-base u-text-1"> System Integration Services</h4>
         <p class="u-text u-text-2"> Keeping current with new technology is a task in itself. organisations are undergoing enormous challenges in creating and evolving an IT framework that would help leverage IT to serve customers better. When and where to invest in technology and staffing issues, security are just a drop in the ocean of challenges. Experience is crucial to understand these challenges that an organisation is experiencing.<br> 
         <p class="u-text u-text-2">Data Pluse Solution offerings are:
-        <p class="u-text u-text-2">Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, InfoServe Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.
+        <p class="u-text u-text-2">Our integration services cover a spectrum of IT infrastructure related services from systems audit to call centers. We have demonstrated capability to provide effective solutions to key customers in many verticals. With over a decade of experience, Datapluse Solution is armed with the necessary expertise and know-how to capture your business's unique needs and help adapting your organisation to the rapid technological advancements.
         <p class="u-text u-text-2">Integration consultancy is crucial as it helps in selecting the right products and technologies before investing. It plays important role in infrastructure building. You will find that our experts have a range of options to meet your requirements and budget.
           <br>
         </p>

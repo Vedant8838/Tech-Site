@@ -116,7 +116,7 @@
         <h4 class="u-text u-text-palette-1-base u-text-1">Email/Spam Protections</h4>
         <p class="u-text u-text-2"> Protect your business from all that's out there<br>
             <p class="u-text u-text-2"> While your company depends on email as a tool for communication and storing large quantities of critical business data, it can also be a real threat. With online attacks becoming more and more prevalent, including SPAM, phishing, viruses and malware, protecting yourself is no longer an option.   <br>
-            <P class="u-text u-text-2"> Email / Spam Protection from InfoServe Solution will:<br>
+            <P class="u-text u-text-2"> Email / Spam Protection from Datapluse Solution will:<br>
                 <li class="u-text u-text-2">Streamline business processes - By offloading huge storage needs from your server
                 <li class="u-text u-text-2">Safeguard your email and your business - Prevent viruses, SPAM, worms and other online threats
                 <li class="u-text u-text-2">Simplify searching - With complete email indexing and easy access to your critical records
