@@ -302,12 +302,6 @@ background-color: #ffffff !important
     <?php include('fotter.php'); ?>
     
 
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>© 2025 Datapluse Solution. All Rights Reserved</span>
-        </a>
-      </p>
-    </section>
-  
+
   
 </body></html>
