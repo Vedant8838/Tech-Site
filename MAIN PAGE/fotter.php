@@ -13,34 +13,67 @@
   	 <div class="container">
   	 	<div class="row">
   	 		<div class="footer-col">
-  	 			<h4>company</h4>
+  	 			<h4>Services</h4>
   	 			<ul>
-  	 				<li><a href="#">about us</a></li>
-  	 				<li><a href="#">our services</a></li>
-  	 				<li><a href="#">privacy policy</a></li>
-  	 				<li><a href="#">affiliate program</a></li>
+  	 				<li><a href="it-infrastucture.php">IT Infrastructure Solution</a></li>
+  	 				<li><a href="System IntegrationServices.php">System Intigration Service</a></li>
+  	 				<li><a href="data-center.php">Data Center & Recovery</a></li>
+  	 				<li><a href="data-availbility.php">Data Availiblity</a></li>
+					<li><a href="Virtualization.php">Virtulization</a></li>
+					<li><a href="CloudServices.php">Cloud computing</a></li>
+					<li><a href="Email Spam Protections.php">Email Protection</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
   	 			<h4>get help</h4>
   	 			<ul>
-  	 				<li><a href="#">FAQ</a></li>
-  	 				<li><a href="#">shipping</a></li>
-  	 				<li><a href="#">returns</a></li>
-  	 				<li><a href="#">order status</a></li>
-  	 				<li><a href="#">payment options</a></li>
+  	 				<li><a href="Structured Cabling System.php">Structure Cabling System</a></li>
+  	 				<li><a href="Wireless Mobility.php">Wireless Mobility & Recovery</a></li>
+  	 				<li><a href="security.php">Security</a></li>
+  	 				<li><a href="Unified Communication.php">Unified Communication</a></li>
+  	 				<li><a href="Network Management System.php">Network Management system</a></li>
+					<li><a href="Servers.php">Server</a></li>
+					<li><a href="Storage Systems.php">Storage system</a></li>
+					<li><a href="Digital Networking.php">Digital Networking</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">
   	 			<h4>online shop</h4>
   	 			<ul>
-  	 				<li><a href="#">watch</a></li>
-  	 				<li><a href="#">bag</a></li>
-  	 				<li><a href="#">shoes</a></li>
-  	 				<li><a href="#">dress</a></li>
+  	 				<li><a href="Surveillance & Video Analytics-1.php">Survillence & Video Analytics</a></li>
+  	 				<li><a href="Access Control System & Visitor Management.php">Access Control System & Recovery</a></li>
+  	 				<li><a href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a></li>
+  	 				<li><a href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a></li>
+					   <li><a href="#">BOOM BARRIER & PARKING MANAGEMENT</a></li>
   	 			</ul>
   	 		</div>
-  	 		<div class="footer-col">
+			   <div class="footer-col">
+				<h4>online shop</h4>
+				<ul>
+					<li><a href="IT Outsourcing.php">IT OUT SOURCING</a></li>
+					<li><a href="Maintenance Support.php">MAINTENANCE SUPPORT& Recovery</a></li>
+					<li><a href="#">IT CONSULTANCY</a></li>
+					<li><a href="Security Audit.php">SECURITY AUDIT</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h4>Address</h4>
+				<ul>
+					<li><a href="#">
+						Australia
+						9 Eravatamia Street Runcorn QLD- 4113 
+						</a></li>
+					<li><a href="#">+61 410 11 8386</a></li>
+					
+					<li><a href="#">India
+						602 Pushti Heights, Shubash Chowk,Gurukul Road, Memnager,Ahemadabad,54. </a></li>
+						<li><a href="#">M: +91 8000120384</a></li>
+						
+				</ul>
+			</div>
+			<div class="footer-col" style="
+			margin-left: 571px;
+		">
   	 			<h4>follow us</h4>
   	 			<div class="social-links">
   	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -48,6 +81,15 @@
   	 				<a href="#"><i class="fab fa-instagram"></i></a>
   	 				<a href="#"><i class="fab fa-linkedin-in"></i></a>
   	 			</div>
+				   <div class="bg-light py-4">
+				  </div><div class="container text-center">
+					<p class="text-muted mb-0 py-2" style="
+  margin-left: -424px;
+  margin-top: 170px;
+  color: white;
+">© 2019 DataPluse Solution All rights reserved.</p>
+				  </div>
+				 </div>
   	 		</div>
   	 	</div>
   	 </div>

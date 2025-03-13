@@ -21,7 +21,7 @@ ul{
 }
 .footer{
 	background-color: #24262b;
-    padding: 70px 0;
+    padding: 15px 0;
 }
 .footer-col{
    width: 25%;
@@ -40,7 +40,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #e91e63;
+	background-color: #0084ff;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -73,6 +73,12 @@ ul{
 	border-radius: 50%;
 	color: #ffffff;
 	transition: all 0.5s ease;
+}
+.footer-copyright {
+    background-color: #027b9a;
+    color: #fff;
+    padding: 15px 30px;
+    text-align: center;
 }
 .footer-col .social-links a:hover{
 	color: #24262b;
