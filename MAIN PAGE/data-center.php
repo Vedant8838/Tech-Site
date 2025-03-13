@@ -132,7 +132,7 @@
             </p>
           </div>
         </section>
-        <?php include('fotter.php'); ?>
+        <?php include('fotter2.html'); ?>
         
         
         
