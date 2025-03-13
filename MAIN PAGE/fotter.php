@@ -59,15 +59,15 @@
 			<div class="footer-col">
 				<h4>Address</h4>
 				<ul>
-					<li><a href="#">
+					<li><a href="https://maps.app.goo.gl/Tvq7Y53jcUNrLnVu9">
 						Australia
 						9 Eravatamia Street Runcorn QLD- 4113 
 						</a></li>
-					<li><a href="#">+61 410 11 8386</a></li>
+					<li><a href="wa.me/+61 410118386">+61 410118386</a></li>
 					
-					<li><a href="#">India
+					<li><a href="https://maps.app.goo.gl/6wZDpsiAuRSfcd3W9">India
 						602 Pushti Heights, Shubash Chowk,Gurukul Road, Memnager,Ahemadabad,54. </a></li>
-						<li><a href="#">M: +91 8000120384</a></li>
+						<li><a href="wa.me/8000120384">M: +91 8000120384</a></li>
 						
 				</ul>
 			</div>
