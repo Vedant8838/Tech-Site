@@ -118,9 +118,9 @@
         <p class="u-text u-text-2"> Network Security and Computer Data Security for companies<br>
             <p class="u-text u-text-2">Do you wish you could find an affordable solution to the ever-present worry over hackers, viruses, and malware that could attack at any time? In addition to the common possibility of accidents and internal threats from lost laptops and flash drives?
             <p class="u-text u-text-2">With Computer Data Security services that you can afford, your business is totally safeguarded, - allowing for your peace of mind. Our total solutions for Wireless Network Security and Virus Removal mean defending your business from online threats in Irvine, Costa Mesa, Newport Beach and Orange County is more affordable than you ever thought possible.
-            <p class="u-text u-text-2">InfoServe comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
+            <p class="u-text u-text-2">Datapluse comprehensive range of solutions would enable an organisation to fortify itself from the risks that are associated with security. We partner with key security vendors like ophos, Cyberoam, Sonicwall, Watchguard, Cisco, Cisco, CheckPoint for in-depth products and solutions.
             <p class="u-text u-text-2">We also have a comprehensive range of security solutions with coverage of all perimeters of your network, from gateway to endpoint security.
-            <p class="u-text u-text-2">The strategic security framework from InfoServe Solution includes:
+            <p class="u-text u-text-2">The strategic security framework from Datapluse Solution includes:
                 <li class="u-text u-text-2">hreat Monitoring - security from predators, hackers, and other online threats
                 <li class="u-text u-text-2">Risk Management - we find the possible faults in your network and show you how to repair them
                 <li class="u-text u-text-2">Anti-Virus Strategies - protect your company from viruses like spyware and malware

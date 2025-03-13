@@ -114,7 +114,7 @@
         <section class="u-align-left u-clearfix u-section-3" id="block-3">
             <div class="u-clearfix u-sheet u-sheet-1">
         <h4 class="u-text u-text-palette-1-base u-text-1">IT Outsourcing</h4>
-        <p class="u-text u-text-2"> Today Sourcing Lifecycle is a tedious & complex process that requires thorough planning, and rigorous execution control and optimization to enable full value. We at Infoserve have developed outsourcing delivery models that are agile, flexible and exploit best-of-breed expertise & capabilities that foster innovation and growth.
+        <p class="u-text u-text-2"> Today Sourcing Lifecycle is a tedious & complex process that requires thorough planning, and rigorous execution control and optimization to enable full value. We at Datapluse have developed outsourcing delivery models that are agile, flexible and exploit best-of-breed expertise & capabilities that foster innovation and growth.
 
             <br>
            
