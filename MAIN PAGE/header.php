@@ -1,33 +1,4 @@
-<html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="INTUITIVE">
-    <meta name="description" content="">
-    <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="Page-1.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
-    
-    
-    
-    
-    
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <script type="application/ld+json">
-      {
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "",
-		"logo": "images/3.png",
-		"sameAs": []
-    }
-  </script>
-    <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Page 1">
-    <meta property="og:type" content="website">
-  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+
   <body data-path-to-root="./" data-include-products="false" class="u-body u-overlap u-overlap-contrast u-overlap-transparent u-stick-footer u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-shading u-sticky u-sticky-d289 u-uploaded-video u-header" id="header"><style class="u-sticky-style" data-style-id="d289">.u-sticky-fixed.u-sticky-d289, .u-body.u-sticky-fixed .u-sticky-d289 {
 box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 }.u-sticky-fixed.u-sticky-d289:before, .u-body.u-sticky-fixed .u-sticky-d289:before{
