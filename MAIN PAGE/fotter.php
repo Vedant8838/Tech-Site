@@ -60,18 +60,16 @@
 				<h4>Address</h4>
 				<ul>
 					<li><a href="https://maps.app.goo.gl/Tvq7Y53jcUNrLnVu9">Australia,9 Eravatamia Street Runcorn QLD- 4113 </a></li>
-					<li><a href="wa.me/+61 410118386">+61 410118386</a></li>
 					<li><a href="https://maps.app.goo.gl/6wZDpsiAuRSfcd3W9">India 602 Pushti Heights, Shubash Chowk,Gurukul Road, Memnager,Ahemadabad,54. </a></li>
-					<li><a href="wa.me/8000120384">M: +91 8000120384</a></li>
 						
 				</ul>
 			</div>
 			<div class="footer-col">
-				<h4>Address</h4>
+				<h4>Contact us</h4>
 				<ul>
 					<li><a href="https://api.whatsapp.com/send/?phone=%2B61410118386&text&type=phone_number&app_absent=0">+61 410118386</a></li>
 					<li><a href="https://api.whatsapp.com/send/?phone=8000120384&text&type=phone_number&app_absent=0">M: +91 8000120384</a></li>
-					<li><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhjKKjstrnjTwXnNtbTTcdjQWsPFrjjsmlnNLcTKDSHJrxhJPcKsvcVJFrZSRMHFxLrg">info@datapluse.com</a></li>
+					<li><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhjKKjstrnjTwXnNtbTTcdjQWsPFrjjsmlnNLcTKDSHJrxhJPcKsvcVJFrZSRMHFxLrg">info@datapluse.co.in</a></li>
 						
 				</ul>
 			</div>
