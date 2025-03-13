@@ -14,7 +14,92 @@
     
     
     
-    <?php include('header.php'); ?>
+  
+    <div class="u-custom-menu u-nav-container">
+            <ul class="u-custom-font u-heading-font u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">HOME</a>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">IT SERVICES</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="it-infrastucture.php">IT Infrastructure Solutions</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="System IntegrationServices.php">SYSTEM INTEGRATION SERVICES</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-availbility.php">DATA AVAILABILITY</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Virtualization.php">VIRTUALIZATION</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="CloudServices.php">CLOUD COMPUTING</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Email Spam Protections.php">EMAIL PROTECTION</a>
+    </li></ul>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">CONVERGED NETWORK</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Structured Cabling System.php">STRUCTURED CABLING SYSTEM</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Digital Networking.php">DIGITAL NETWORKING</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY&amp; Recovery</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="security.php">SECURITY</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Unified Communication.php">UNIFIED COMMUNICATION</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Network Management System.php">NETWORK MANAGEMENT SYSTEM</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Servers.php">SERVERS</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Storage Systems.php">STORAGE SYSTEMS</a>
+    </li></ul>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">ELV(Extra-Low Voltage)</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Surveillance & Video Analytics-1.php">SURVEILLANCE & VIDEO ANALYTICS</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM&amp; Recovery</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Boom Barrier & Parking Management-1.php">BOOM BARRIER & PARKING MANAGEMENT</a>
+    </li></ul>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">SUPPORT</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="IT Outsourcing.php">IT OUT SOURCING</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Maintenance Support.php">MAINTENANCE SUPPORT&amp; Recovery</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="index.php">IT CONSULTANCY</a>
+    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Security Audit.php">SECURITY AUDIT</a>
+    </li></ul>
+    
+    </div>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Aboutus.php" style="padding: 11px 25px;">About</a>
+    </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Contact.php" style="padding: 11px 25px;">Contact</a>
+    </li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">HOME</a>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">IT SERVICES</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="it-infrastucture.php">IT Infrastructure Solutions</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="System IntegrationServices.php">SYSTEM INTEGRATION SERVICES</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER&amp; Recovery</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-availbility.php">DATA AVAILABILITY</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Virtualization.php">VIRTUALIZATION</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="CloudServices.php">CLOUD COMPUTING</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Email Spam Protections.php">EMAIL PROTECTION</a>
+                </li></ul>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">CONVERGED NETWORK</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Structured Cabling System.php">STRUCTURED CABLING SYSTEM</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Digital Networking.php">DIGITAL NETWORKING</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="security.php">SECURITY</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Unified Communication.php">UNIFIED COMMUNICATION</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Network Management System.php">NETWORK MANAGEMENT SYSTEM</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Servers.php">SERVERS</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Storage Systems.php">STORAGE SYSTEMS</a>
+                </li></ul>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">ELV(Extra-Low Voltage)</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="index.php">STRUCTURED CABLING SYSTEM</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Surveillance & Video Analytics-1.php">SURVEILLANCE & VIDEO ANALYTICS</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM&amp; Recovery</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Boom Barrier & Parking Management-1.php">BOOM BARRIER & PARKING MANAGEMENT</a>
+                </li></ul>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">SUPPORT</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="index.php">STRUCTURED CABLING SYSTEM</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="IT Outsourcing.php">IT OUT SOURCING</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Maintenance Support.php">MAINTENANCE SUPPORT&amp; Recovery</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="index.php">IT CONSULTANCY</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Security Audit.php">SECURITY AUDIT</a>
+                </li></ul>
+                
+                </div>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Aboutus.php" style="padding: 11px 25px;">About</a>
+                </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Contact.php" style="padding: 11px 25px;">Contact</a>
+                </li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav><a href="index.php" data-page-id="20059737" class="u-image u-logo u-image-1" data-image-width="3137" data-image-height="1845" title="Page 1">
+          <img src="images/3.png" class="u-logo-image u-logo-image-1">
+        </a></header>
     
     
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
