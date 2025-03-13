@@ -133,7 +133,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 
         <div class="embed-responsive">
           <video class="embed-responsive-item" data-autoplay="1" loop="" muted="1" autoplay="autoplay" playsinline="">
-            <source src="files/mixkit-animation-of-futuristic-devices-99786-full-hd.mp4" type="video/mp4">
+            <source src="files/mixkit-animation-of-futuristic-devices-99786-full-hd (1).mp4" type="video/mp4">
             <p>Your browser does not support HTML5 video.</p>
           </video>
         </div>
