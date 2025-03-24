@@ -64,16 +64,16 @@
         <div class="footer-col">
           <h4>Address</h4>
           <ul>
-            <li><a href="https://maps.app.goo.gl/Tvq7Y53jcUNrLnVu9">Australia: 9 Eravatamia Street, Runcorn QLD-4113</a></li>
-            <li><a href="https://maps.app.goo.gl/6wZDpsiAuRSfcd3W9">India: 602 Pushti Heights, Gurukul Road, Ahmedabad-54</a></li>
+            <li><a href="https://maps.app.goo.gl/Tvq7Y53jcUNrLnVu9">India : 602 Pushti Heights, Gurukul Road, Ahmedabad-54</a></li>
+            <li><a href="https://maps.app.goo.gl/6wZDpsiAuRSfcd3W9">Australia : 9 Eravatamia Street, Runcorn QLD-4113</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
           <h4>Contact Us</h4>
           <ul>
-            <li><a href="https://api.whatsapp.com/send/?phone=%2B61410118386">+61 410118386</a></li>
-            <li><a href="https://api.whatsapp.com/send/?phone=8000120384">+91 8000120384</a></li>
+            <li><a href="https://api.whatsapp.com/send/?phone=%2B61410118386">Mobile : +91 8000120384</a></li>
+            <li><a href="https://api.whatsapp.com/send/?phone=8000120384">Mobile : +61 410118386</a></li>
             <li><a href="mailto:info@datapluse.co.in">info@datapluse.co.in</a></li>
           </ul>
         </div>
