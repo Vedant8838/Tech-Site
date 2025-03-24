@@ -109,7 +109,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
               </li></ul>
               </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">ELV(Extra-Low Voltage)</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Surveillance & Video Analytics-1.php">SURVEILLANCE & VIDEO ANALYTICS</a>
-              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEMS</a>
+              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Boom Barrier & Parking Management-1.php">BOOM BARRIER & PARKING MANAGEMENT</a>
