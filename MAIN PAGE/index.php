@@ -296,9 +296,7 @@ Services</p>
         <span class="sr-only">Next</span>
       </a>
     </section>
-    <style class="u-overlap-style">.u-overlap:not(.u-sticky-scroll) .u-header {
-background-color: #ffffff !important
-}</style>
+
     
     <?php include('fotter.php'); ?>
     

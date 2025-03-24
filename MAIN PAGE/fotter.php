@@ -18,7 +18,7 @@
           <ul>
             <li><a href="it-infrastucture.php">IT Infrastructure Solution</a></li>
             <li><a href="System IntegrationServices.php">System Integration Service</a></li>
-            <li><a href="data-center.php">Data Center & Recovery</a></li>
+            <li><a href="data-center.php">Data Center </a></li>
             <li><a href="data-availbility.php">Data Availability</a></li>
             <li><a href="Virtualization.php">Virtualization</a></li>
             <li><a href="CloudServices.php">Cloud Computing</a></li>
