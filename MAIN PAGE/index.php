@@ -48,7 +48,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
           <ul class="u-custom-font u-heading-font u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">HOME</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">IT SERVICES</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="it-infrastucture.php">IT Infrastructure Solutions</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="System IntegrationServices.php">SYSTEM INTEGRATION SERVICES</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER&amp; Recovery</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-availbility.php">DATA AVAILABILITY</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Virtualization.php">VIRTUALIZATION</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="CloudServices.php">CLOUD COMPUTING</a>
@@ -56,7 +56,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 </li></ul>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">CONVERGED NETWORK</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Structured Cabling System.php">STRUCTURED CABLING SYSTEM</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Digital Networking.php">DIGITAL NETWORKING</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY&amp; Recovery</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="security.php">SECURITY</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Unified Communication.php">UNIFIED COMMUNICATION</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Network Management System.php">NETWORK MANAGEMENT SYSTEM</a>
@@ -65,7 +65,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
 </li></ul>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">ELV(Extra-Low Voltage)</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Surveillance & Video Analytics-1.php">SURVEILLANCE & VIDEO ANALYTICS</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM&amp; Recovery</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Boom Barrier & Parking Management-1.php">BOOM BARRIER & PARKING MANAGEMENT</a>
@@ -89,7 +89,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
               <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">HOME</a>
               </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">IT SERVICES</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="it-infrastucture.php">IT Infrastructure Solutions</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="System IntegrationServices.php">SYSTEM INTEGRATION SERVICES</a>
-              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER&amp; Recovery</a>
+              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-center.php">DATA CENTER</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="data-availbility.php">DATA AVAILABILITY.</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Virtualization.html">VIRTUALIZATION</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="CloudServices.php">CLOUD COMPUTING</a>
@@ -97,7 +97,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
               </li></ul>
               </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">CONVERGED NETWORK</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Structured Cabling System.php">STRUCTURED CABLING SYSTEM</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Digital Networking.php">DIGITAL NETWORKING</a>
-              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY&amp; Recovery</a>
+              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Wireless Mobility.php"> WIRELESS & MOBILITY</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="security.php">SECURITY</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Unified Communication.php">UNIFIED COMMUNICATION</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Network Management System.php">NETWORK MANAGEMENT SYSTEM</a>
@@ -106,7 +106,7 @@ box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important
               </li></ul>
               </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="index.php" style="padding: 11px 25px;">ELV(Extra-Low Voltage)</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Surveillance & Video Analytics-1.php">SURVEILLANCE & VIDEO ANALYTICS</a>
-              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM&amp; Recovery</a>
+              </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Access Control System & Visitor Management.php">ACCESS CONTROL SYSTEM</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Fire Detection & Suppression System -1.php">FIRE DETECTION & SUPPRESSION SYSTEM</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="BMS (Building Management System)-1.php">BMS(BUILDING MANAGEMENT SYSTEM)</a>
               </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base u-text-white" href="Boom Barrier & Parking Management-1.php">BOOM BARRIER & PARKING MANAGEMENT</a>
